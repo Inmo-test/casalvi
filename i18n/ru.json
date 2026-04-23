@@ -1,0 +1,742 @@
+{
+    "common": {
+        "loading": "Загрузка...",
+        "save": "Сохранить",
+        "cancel": "Отмена",
+        "confirm": "Подтвердить",
+        "error": "Ошибка",
+        "success": "Успех"
+    },
+    "voice": {
+        "ready": "Готов к записи",
+        "recording": "Запись...",
+        "processing": "Обработка...",
+        "click_start": "Нажмите для старта",
+        "click_stop": "Нажмите для остановки",
+        "thinking": "ИИ думает",
+        "permission_denied": "Доступ запрещен",
+        "upgrade_title": "Премиум функция",
+        "upgrade_desc": "Голосовой ввод ИИ доступен только в тарифе Pro.",
+        "mic_permission_title": "Microphone permission required",
+        "mic_permission_desc": "Please allow microphone access in your browser",
+        "mic_error_title": "Microphone error",
+        "mic_error_desc": "Check permissions.",
+        "not_understood": "I didn't understand you",
+        "success_exclamation": "Done!",
+        "processed": "Command processed",
+        "completed": "Action completed",
+        "cancelled": "Action cancelled",
+        "incomplete_selection": "Incomplete selection",
+        "tell_me_name": "Tell me the contact name.",
+        "who_referring": "Who are you referring to?",
+        "found_similar": "similar contacts",
+        "unauthorized": "User not authenticated",
+        "actions_detected": "actions detected",
+        "confirm_actions": "Confirm actions",
+        "create": "Create",
+        "update": "Update",
+        "confirm_button_suffix": "actions"
+    },
+    "ai_chat": {
+        "title": "Casalvi Genius",
+        "role_support": "Support & Assistant",
+        "role_sales": "Sales Consultant",
+        "greeting": "👋 Hello! I'm your personal assistant.",
+        "placeholder_auth": "Ask me how to create contacts, use the map, or upgrade your plan.",
+        "placeholder_guest": "Would you like to discover how Casalvi can revolutionize your real estate business?",
+        "recommendation": "Recommendation",
+        "upgrade_plan": "Upgrade Plan",
+        "go_to_section": "Go to section",
+        "input_placeholder": "Type your question...",
+        "disclaimer": "Casalvi Genius may make mistakes."
+    },
+    "valuation": {
+        "title": "Оценка ИИ",
+        "estimated_price": "Оценочная цена",
+        "confidence": "Доверие"
+    },
+    "nav": {
+        "dashboard": "Дашборд",
+        "contacts": "Контакты",
+        "properties": "Объекты",
+        "settings": "Настройки"
+    },
+    "landing": {
+        "navbar": {
+            "login": "Login",
+            "signup": "Sign Up",
+            "features": "Features",
+            "pricing": "Pricing"
+        },
+        "hero": {
+            "badge": "🚀 Real Estate CRM of the Future",
+            "title": "Close more sales with Artificial Intelligence",
+            "subtitle": "Casalvi AI CRM is the all-in-one platform that modern real estate agents need. Manage properties, clients, and sales with the power of AI.",
+            "cta_primary": "Start Free",
+            "cta_secondary": "Watch Demo",
+            "productivity_label": "Productivity"
+        },
+        "features": {
+            "voice_title": "AI Voice Assistant",
+            "voice_desc": "Dictate notes, create contacts, and log activities by speaking. Your personal assistant that understands context.",
+            "farming_title": "Smart Farming",
+            "farming_desc": "Identify opportunities automatically. AI analyzes your portfolio and suggests strategic actions.",
+            "matching_title": "Predictive Matching",
+            "matching_desc": "Connect buyers with perfect properties using advanced compatibility algorithms.",
+            "legal_title": "AI Legal Scanner",
+            "legal_desc": "Analyze deposit contracts and detect dangerous clauses in seconds with artificial intelligence.",
+            "valuation_title": "Automatic Valuation",
+            "valuation_desc": "Get accurate valuations instantly based on market data and property characteristics.",
+            "analytics_title": "Predictive Analytics",
+            "analytics_desc": "Visualize trends, forecast closings, and optimize your strategy with intelligent dashboards.",
+            "badge": "Next Generation Tools",
+            "title_1": "Powered by",
+            "title_2": "Artificial Intelligence",
+            "description": "It's not just software, it's your competitive advantage. Automate the complex and close sales faster with our suite of cognitive tools.",
+            "marketing_title": "Autonomous Marketing",
+            "marketing_desc": "From SEO descriptions to segmented email campaigns. AI writes copy that sells and designs strategies to reactivate your database."
+        },
+        "pricing": {
+            "title": "Plans for every stage",
+            "subtitle": "From independent agents to full agencies",
+            "starter_name": "Starter",
+            "starter_price": "Free",
+            "starter_desc": "Perfect to get started",
+            "pro_name": "Pro",
+            "pro_price": "€49/month",
+            "pro_desc": "For professional agents",
+            "business_name": "Business",
+            "business_price": "€99/month",
+            "business_desc": "For small teams",
+            "agency_name": "Agency",
+            "agency_price": "€199/month",
+            "agency_desc": "For full agencies",
+            "cta_button": "Start Now",
+            "feature_contacts": "contacts",
+            "feature_properties": "properties",
+            "feature_ai_voice": "AI Voice",
+            "feature_analytics": "Analytics",
+            "feature_team": "Team Management",
+            "feature_support": "Premium Support",
+            "plan_features": {
+                "starter_props": "Up to 2 properties",
+                "starter_contacts": "Up to 20 contacts",
+                "starter_crm": "Basic CRM",
+                "starter_mobile": "Mobile App",
+                "starter_email": "Email Support",
+                "pro_props": "Unlimited Properties",
+                "pro_contacts": "Unlimited Contacts",
+                "pro_voice": "🎙️ AI Voice Dictation",
+                "pro_matching": "🧩 AI Matchmaker",
+                "pro_farming": "Farming",
+                "pro_writer": "✍️ AI Writer",
+                "pro_integrations": "Advanced Integrations",
+                "pro_priority": "Priority Support",
+                "business_users": "Up to 3 agents",
+                "business_dashboard": "Team Dashboard",
+                "business_leads": "Shared Lead Management",
+                "agency_users": "Up to 5 users",
+                "agency_analytics": "Advanced Analytics"
+            }
+        },
+        "footer": {
+            "product": "Product",
+            "features": "Features",
+            "pricing": "Pricing",
+            "docs": "Documentation",
+            "company": "Company",
+            "about": "About Us",
+            "blog": "Blog",
+            "contact": "Contact",
+            "legal": "Legal",
+            "privacy": "Privacy",
+            "terms": "Terms",
+            "copyright": "© 2025 Casalvi AI. All rights reserved.",
+            "tagline": "The Real Estate CRM that thinks for you. Powered by Predictive AI.",
+            "demo": "Demo",
+            "integrations": "Integrations",
+            "careers": "Careers",
+            "cookies": "Cookies",
+            "security": "Security"
+        },
+        "cta": {
+            "title": "Ready to transform your business?",
+            "subtitle": "Join hundreds of agents already closing more sales with AI",
+            "button": "Start Free"
+        },
+        "blog": {
+            "title": "Blog & News",
+            "subtitle": "Insights on the future of real estate.",
+            "read_more": "Read more",
+            "back_to_blog": "Back to Blog",
+            "view_more_articles": "View more articles"
+        },
+        "contact": {
+            "title": "Let's Talk",
+            "subtitle": "Questions about Casalvi? Our team is here to help you digitize your real estate business.",
+            "info": {
+                "title": "Contact Information",
+                "email_label": "Email",
+                "email_note": "Response in less than 24h",
+                "phone_label": "Phone",
+                "phone_note": "Monday to Friday, 9h - 18h",
+                "office_label": "Office",
+                "office_note": "Headquarters",
+                "address": "Madrid, Spain"
+            },
+            "form": {
+                "success_title": "Message Sent!",
+                "success_desc": "Thanks for contacting us. We received your message and will respond shortly.",
+                "send_another": "Send another message",
+                "first_name": "First Name",
+                "last_name": "Last Name",
+                "email": "Email",
+                "phone": "Phone (Optional)",
+                "message": "Message",
+                "message_placeholder": "How can we help?",
+                "submit": "Send Message",
+                "sending": "Sending...",
+                "errors": {
+                    "required": "This field is required"
+                }
+            }
+        },
+        "about": {
+            "hero": {
+                "title": "From Agent to Agent.",
+                "subtitle": "Casalvi wasn't born in a boardroom. It was born on the streets of Madrid, between viewings, calls, and paperwork."
+            },
+            "origin": {
+                "greeting_1": "Hi, I'm ",
+                "greeting_2": ", founder of Casalvi.",
+                "p1": "During my time as a real estate agent in Madrid, I experienced the chaos of our profession firsthand. I know what it's like to waste hours keying in data, managing hundreds of contacts, and buried in bureaucracy instead of doing what matters: selling.",
+                "p2": "I realized the modern agent needs to focus on who really needs to buy or sell, not on manual work."
+            },
+            "vision": {
+                "title": "More than a CRM, your silent partner.",
+                "subtitle": "We created Casalvi to give you superpowers. A tool that works while you sleep."
+            },
+            "benefits": {
+                "matchmaker": {
+                    "title": "Smart Matchmaker",
+                    "desc": "Tells you the best buyer without waiting weeks for a financial study."
+                },
+                "market": {
+                    "title": "Market Prediction",
+                    "desc": "Detects which property will sell soon in your area before anyone else."
+                },
+                "viability": {
+                    "title": "Feasibility Analysis",
+                    "desc": "An AI analyst that confirms if a deal is viable before you waste time."
+                }
+            },
+            "closing": {
+                "quote": "\"Reclaim your time. Let AI handle the rest.\"",
+                "role": "Founder"
+            }
+        },
+        "auth": {
+            "login_title": "Welcome back",
+            "signup_title": "Create your account",
+            "email_label": "Email",
+            "password_label": "Password",
+            "name_label": "Full name",
+            "login_button": "Login",
+            "signup_button": "Sign Up",
+            "or_text": "or continue with",
+            "google_button": "Continue with Google",
+            "switch_to_signup": "Don't have an account? Sign up",
+            "switch_to_login": "Already have an account? Login",
+            "signup_desc": "Join agents already automating their work with AI.",
+            "login_desc": "Access your CRM and manage properties in seconds."
+        }
+    },
+    "dashboard": {
+        "sidebar": {
+            "dashboard": "Дашборд",
+            "contacts": "Контакты",
+            "properties": "Объекты",
+            "leads": "Лиды",
+            "calendar": "Календарь",
+            "voice_ai": "Голосовой ИИ",
+            "settings": "Настройки",
+            "logout": "Выйти",
+            "profile": "Профиль",
+            "inbox": "Входящие",
+            "analytics": "Аналитика",
+            "map": "Карта Фарминга",
+            "tools": "Инструменты",
+            "dashboard_subtitle": "Обзор вашей активности и возможностей",
+            "expand": "Развернуть",
+            "collapse": "Свернуть",
+            "voice_ai_subtitle": "ИИ Ассистент",
+            "agent_role": "Агент",
+            "theme": "Тема"
+        },
+        "quick_actions": {
+            "title": "Следующий шаг",
+            "subtitle": "Новый контакт или объект?",
+            "add_contact": "+ Контакт",
+            "add_property": "+ Объект"
+        },
+        "inbox": {
+            "title": "Сообщения",
+            "tabs": {
+                "inbox": "Входящие",
+                "sent": "Отправленные"
+            },
+            "empty": "Папка пуста",
+            "to": "Кому:",
+            "from": "От:",
+            "crm_detected": "Клиент CRM обнаружен",
+            "back": "Назад",
+            "placeholder": "Напишите ответ здесь...",
+            "generate_ai": "Сгенерировать с ИИ",
+            "context_active": "CRM контекст для:",
+            "context_external": "Ответ внешнему",
+            "send": "Отправить ответ",
+            "select": "Выберите письмо для чтения",
+            "generated": "✨ Ответ сгенерирован",
+            "check": "Проверьте перед отправкой.",
+            "sent_success": "Отправлено",
+            "sent_desc": "Ответ успешно отправлен."
+        },
+        "stats": {
+            "total_contacts": "Всего контактов",
+            "active_properties": "Активные объекты",
+            "portfolio_value": "Стоимость портфеля"
+        },
+        "agenda": {
+            "title": "Повестка дня",
+            "subtitle": "Просматривайте месяц и управляйте встречами",
+            "no_events": "Нет событий",
+            "view_all": "Показать все"
+        },
+        "analytics": {
+            "title": "Производительность",
+            "subtitle": "Анализируйте ключевые метрики, KPI и состояние бизнеса"
+        },
+        "map": {
+            "title": "Операции в реальном времени",
+            "subtitle": "Визуализируйте активность и маршруты вашей команды."
+        },
+        "tools": {
+            "title": "Инструменты данных",
+            "subtitle": "Импорт и управление массовыми данными для вашего агентства"
+        },
+        "feed": {
+            "title": "Умная лента",
+            "recent_activity": "Недавняя активность",
+            "no_opportunities": "Нет ожидающих возможностей",
+            "all_clear": "Всё чисто! 🎉",
+            "recommended_actions": "рекомендуемых действий"
+        },
+        "welcome_modal": {
+            "title_pro": "Добро пожаловать в Pro!",
+            "desc_pro": "Вы разблокировали всю мощь Casalvi AI. Наслаждайтесь безлимитной генерацией контента.",
+            "title_business": "Добро пожаловать в Business!",
+            "desc_business": "Ваша команда готова к взлёту. Управляйте сотрудниками и масштабируйте бизнес.",
+            "title_agency": "Добро пожаловать в Agency!",
+            "desc_agency": "Лучшее решение для лидеров рынка. Полный аудит, продвинутый фарминг и приоритетная поддержка.",
+            "title_default": "Добро пожаловать в Casalvi!",
+            "desc_default": "Спасибо, что присоединились к революции ИИ в недвижимости.",
+            "button_start": "Начать продавать! 🚀"
+        },
+        "top_leads": {
+            "title": "Топ Лиды",
+            "subtitle": "Возможности с высокой вероятностью конверсии",
+            "empty_title": "Нет горячих лидов",
+            "empty_desc": "Начните регистрировать активность, и ИИ найдет лучшие возможности",
+            "stage_prospect": "Перспектива",
+            "stage_lead": "Лид",
+            "stage_customer": "Клиент",
+            "stage_inactive": "Неактивен",
+            "stage_unclassified": "Не классифицирован"
+        },
+        "properties": {
+            "title": "Объекты",
+            "subtitle": "Портфель недвижимости и воронка продаж",
+            "new_property": "Новый объект",
+            "view_pipeline": "Воронка",
+            "view_list": "Список",
+            "search_placeholder": "📍 Поиск по району или улице...",
+            "stats_total": "Всего",
+            "stats_active": "Активные",
+            "stats_pipeline": "Воронка",
+            "stats_value": "Стоимость",
+            "tab_active": "В продаже",
+            "tab_pipeline": "Воронка",
+            "tab_sold": "Продано",
+            "tab_all": "Все",
+            "empty_loading": "Загрузка...",
+            "empty_title": "Объекты не найдены.",
+            "toast_search_success": "Поиск завершен",
+            "toast_search_desc": "объектов найдено в районе.",
+            "toast_error": "Ошибка поиска.",
+            "status_valuation": "Оценка",
+            "status_listing": "Подготовка",
+            "status_active": "В продаже",
+            "status_offer": "Предложение",
+            "status_reserved": "Резерв",
+            "status_sold": "Продано",
+            "total_value": "Общая стоимость",
+            "actions": "Действия",
+            "view_details": "Подробнее",
+            "move_to": "Переместить в...",
+            "no_properties": "Нет объектов",
+            "detail": {
+                "not_found": "Объект не найден",
+                "tabs": {
+                    "management": "Управление",
+                    "matching": "Подбор",
+                    "activity": "Активность",
+                    "report": "Отчет"
+                },
+                "sections": {
+                    "valuation": "ИИ Оценка",
+                    "tools": "ИИ Инструменты",
+                    "offers": "Предложения",
+                    "closing": "Закрытие",
+                    "matching": "Покупатели",
+                    "activity": "Недавняя активность",
+                    "report": "Отчет отзывов",
+                    "technical": "Технические детали",
+                    "photos": "Фото"
+                },
+                "actions": {
+                    "back": "Назад",
+                    "edit": "Изменить"
+                },
+                "status": {
+                    "reserved": "Зарезервировано",
+                    "sold": "Продано",
+                    "active": "Активно"
+                }
+            }
+        },
+        "contacts": {
+            "title": "Контакты",
+            "subtitle": "Управление клиентами и лидами",
+            "new_contact": "Новый контакт",
+            "search_placeholder": "Поиск по имени, email или телефону...",
+            "tab_all": "Все",
+            "tab_buyers": "Покупатели",
+            "tab_owners": "Собственники",
+            "tab_sellers": "Продавцы",
+            "empty_title": "Контакты не найдены",
+            "empty_desc": "Нет контактов, соответствующих поиску.",
+            "clear_filters": "Сбросить фильтры",
+            "role_buyer": "Покупатель",
+            "role_seller": "Продавец",
+            "role_owner": "Собственник",
+            "actions": "Действия",
+            "view_sheet": "Просмотр",
+            "call": "Позвонить",
+            "whatsapp": "WhatsApp",
+            "detail": {
+                "tabs": {
+                    "overview": "Overview",
+                    "matching": "Matching",
+                    "activity": "History"
+                },
+                "overview": {
+                    "properties_portfolio": "Property Portfolio",
+                    "manage_properties_desc": "Manage properties in the main section.",
+                    "offers": "Offers",
+                    "recent_activity": "Recent Activity",
+                    "view_all": "View all",
+                    "register_first_followup": "Log first follow-up"
+                },
+                "matching": {
+                    "compatible_properties": "Compatible Properties"
+                },
+                "activity": {
+                    "register_new_interaction": "Log New Interaction",
+                    "open": "Open",
+                    "cancel": "Cancel"
+                }
+            }
+        },
+        "settings": {
+            "title": "Настройки",
+            "subtitle": "Управление аккаунтом, командой и предпочтениями",
+            "tabs": {
+                "general": "Общие",
+                "integrations": "Интеграции",
+                "team": "Команда",
+                "billing": "Тариф",
+                "email": "Email"
+            },
+            "currency": {
+                "title": "Валюта",
+                "description": "Выберите валюту для отображения цен и аналитики.",
+                "placeholder": "Выберите валюту"
+            },
+            "session": {
+                "title": "Сессия",
+                "logout": "Выйти",
+                "logout_desc": "При выходе вы будете перенаправлены на главную страницу"
+            },
+            "profile": {
+                "title": "Мой Профиль",
+                "first_name": "Имя",
+                "last_name": "Фамилия",
+                "user_id": "ID Пользователя",
+                "id_hint": "Полезно для поддержки"
+            },
+            "agency": {
+                "title": "Идентичность Агентства",
+                "description": "Эти детали будут отображаться в отчетах и на листах объектов.",
+                "edit_title": "Изменить Название Агентства",
+                "edit_desc": "Измените название вашего агентства. Это изменение будет видно всем членам команды.",
+                "name_label": "Название Агентства",
+                "name_placeholder": "Напр.: Real Estate ABC",
+                "name": "Коммерческое Название",
+                "phone": "Рабочий Телефон",
+                "email": "Email Контакт",
+                "address": "Физический Адрес",
+                "website": "Вебсайт",
+                "save": "Сохранить Изменения",
+                "saving": "Сохранение...",
+                "success": "Агентство обновлено",
+                "error": "Неожиданная ошибка"
+            },
+            "subscription": {
+                "manage": "Управление Подпиской",
+                "portal_error": "Ошибка подключения к порталу",
+                "plan_free": "Бесплатный",
+                "plan_pro": "Pro",
+                "plan_business": "Бизнес",
+                "plan_agency": "Агентство",
+                "status_active": "Активен",
+                "status_pending": "Ожидание",
+                "status_inactive": "Неактивен",
+                "contacts": "Контакты",
+                "properties": "Объекты",
+                "licenses": "Лицензии Команды",
+                "upgrade": "Улучшить Тариф",
+                "change_plan": "Сменить Тариф"
+            },
+            "feed": {
+                "title": "Распространение на Порталы (XML)",
+                "description": "Автоматически синхронизируйте ваши объекты с Idealista, Fotocasa, Kyero и др.",
+                "instructions": "Скопируйте эту ссылку и вставьте её в раздел 'Импорт' вашего портала недвижимости.",
+                "copied": "Ссылка скопирована"
+            },
+            "calendar": {
+                "title": "Мобильная Синхронизация",
+                "description": "Смотрите визиты Casalvi на iPhone, Google Calendar или Outlook.",
+                "copied": "Ссылка скопирована",
+                "ios_instructions": "iPhone / iPad > Настройки > Календарь > Учетные записи > Добавить > Другое > Подписаться на календарь.",
+                "google_instructions": "Google Calendar > '+' рядом с Другие календари > По URL."
+            },
+            "notifications": {
+                "title": "Уведомления Клиентов",
+                "description": "Хотите автоматически отправлять подтверждения по email при назначении визита?",
+                "auto_label": "Автоматически",
+                "auto_desc": "Email всегда будет отправлен клиенту, без запроса.",
+                "manual_label": "Вручную (Рекомендуется)",
+                "manual_desc": "Мы покажем чекбокс 'Отправить Email' при создании встречи.",
+                "off_label": "Отключено",
+                "off_desc": "Письма никогда не будут отправляться.",
+                "save": "Сохранить Конфигурацию"
+            },
+            "email": {
+                "tab_smtp": "Отправка (SMTP)",
+                "tab_imap": "Получение (IMAP)",
+                "tab_general": "Подпись и Общее",
+                "config_title_smtp": "Настройки Отправки (SMTP)",
+                "config_desc_smtp": "Для массовой рассылки и ответов из CRM.",
+                "config_title_imap": "Настройки Получения (IMAP)",
+                "config_desc_imap": "Для чтения ответов и отображения входящих.",
+                "server": "Сервер (Хост)",
+                "port": "Порт",
+                "user": "Пользователь",
+                "password": "Пароль",
+                "test_connection": "Проверить Соединение",
+                "save": "Сохранить Конфигурацию",
+                "quick_setup": "Быстрая Настройка",
+                "password_help": "Какой пароль использовать?"
+            },
+            "team": {
+                "invite_dialog": {
+                    "title": "Пригласить Участника",
+                    "description": "Сгенерируйте код приглашения для нового члена команды.",
+                    "email_label": "Email нового сотрудника",
+                    "cancel": "Отмена",
+                    "generate": "Создать Код",
+                    "generating": "Генерация...",
+                    "success_title": "Код приглашения создан",
+                    "success_desc": "Поделитесь этим кодом с пользователем для вступления в агентство.",
+                    "copy_code": "Код скопирован",
+                    "close": "Закрыть"
+                },
+                "title": "Ваша Команда",
+                "subtitle": "Управляйте доступом агентов к CRM.",
+                "active_members": "Активные Участники",
+                "pending_invites": "Ожидающие Приглашения",
+                "invite_button": "Пригласить",
+                "role_owner": "Владелец",
+                "role_admin": "Админ",
+                "role_manager": "Менеджер",
+                "role_agent": "Агент",
+                "delete_dialog": {
+                    "title": "Удалить участника?",
+                    "description": "Это действие необратимо.",
+                    "confirm": "Удалить",
+                    "cancel": "Отмена"
+                }
+            }
+        }
+    },
+    "metadata": {
+        "title_default": "Casalvi | AI for your CRM",
+        "title_template": "%s | Casalvi AI",
+        "description": "Power your real estate business with Casalvi. The first AI CRM that automates lead capture, predicts closings, and is voice-controlled. Try it free today.",
+        "keywords": "real estate crm, artificial intelligence, real estate, proptech, automation, real estate agents, ai real estate",
+        "og_title": "Casalvi | AI for your CRM",
+        "og_description": "Manage your real estate business by voice. The first platform combining CRM, Voice Assistant, and Predictive Matching."
+    },
+    "legal": {
+        "privacy": {
+            "title": "Политика конфиденциальности",
+            "last_updated": "Последнее обновление: 24 декабря 2025",
+            "controller": {
+                "title": "1. Ответственный за обработку",
+                "content": "{name} (далее \"Casalvi CRM\"), с ИНН {nif}, является ответственным за обработку ваших персональных данных."
+            },
+            "collected_data": {
+                "title": "2. Какие данные мы собираем",
+                "account": "<strong>Данные учетной записи:</strong> Имя, фамилия, email и пароль (зашифрованный).",
+                "billing": "<strong>Платежные данные:</strong> Управляются внешне через Stripe (мы не храним полные номера карт).",
+                "usage": "<strong>Данные об использовании:</strong> Информация о том, как вы взаимодействуете с платформой для улучшения сервиса.",
+                "user_content": "<strong>Пользовательский контент:</strong> Объекты недвижимости и контакты, которые вы загружаете для управления (мы действуем как Исполнители обработки)."
+            },
+            "purpose": {
+                "title": "3. Цель обработки",
+                "intro": "Мы обрабатываем ваши данные для:",
+                "service": "Оказания услуг CRM для недвижимости по договору.",
+                "billing": "Обработки платежей и выставления счетов.",
+                "notifications": "Отправки важных уведомлений о вашем аккаунте или обновлениях сервиса.",
+                "ai": "Предоставления функций Искусственного интеллекта."
+            },
+            "third_parties": {
+                "title": "4. Исполнители обработки (Третьи лица)",
+                "intro": "Для оказания услуг мы передаем строго необходимые данные следующим технологическим провайдерам, все из которых соответствуют стандартам безопасности:",
+                "table_provider": "Провайдер",
+                "table_function": "Функция",
+                "table_location": "Местоположение / Гарантии",
+                "providers": {
+                    "supabase": {
+                        "function": "База данных и Аутентификация",
+                        "location": "AWS (ЕС/Ирландия) - GDPR"
+                    },
+                    "stripe": {
+                        "function": "Обработка Платежей",
+                        "location": "США (Data Privacy Framework)"
+                    },
+                    "ai_models": {
+                        "name": "OpenAI / DeepSeek",
+                        "function": "Модели Искусственного Интеллекта",
+                        "location": "США/Глобально. Данные обрабатываются в соответствии с соглашениями о конфиденциальности и НЕ используются для обучения публичных моделей."
+                    },
+                    "vercel": {
+                        "function": "Хостинг и Инфраструктура",
+                        "location": "Глобально (CDN) - соответствие GDPR"
+                    }
+                }
+            },
+            "rights": {
+                "title": "5. Ваши Права",
+                "content": "В соответствии с GDPR, вы имеете право на доступ, исправление и удаление ваших данных, а также на ограничение или возражение против их обработки и на переносимость данных. Вы можете реализовать эти права, написав на {email}."
+            },
+            "security": {
+                "title": "6. Безопасность",
+                "content": "Мы применяем технические меры (шифрование SSL, защищенные базы данных, контроль доступа) для защиты вашей информации от несанкционированного доступа."
+            }
+        },
+        "terms": {
+            "title": "Условия и Положения Использования",
+            "last_updated": "Последнее обновление: 24 декабря 2025",
+            "info_legal": {
+                "title": "1. Юридическая Информация и Принятие",
+                "content": "Настоящие Условия и Положения регулируют использование сервиса <strong>Casalvi CRM</strong>, принадлежащего <strong>{name}</strong>, с NIF <strong>{nif}</strong> (далее \"Поставщик\").",
+                "acceptance": "Получая доступ и используя нашу платформу, вы полностью принимаете эти условия. Если вы не согласны, пожалуйста, не используйте сервис."
+            },
+            "service_desc": {
+                "title": "2. Описание Сервиса и Использование ИИ",
+                "content": "Casalvi CRM — это инструмент управления для риелторов, который использует Искусственный Интеллект (ИИ) для таких функций, как написание текстов, транскрипция голоса и анализ данных.",
+                "warning": {
+                    "title": "⚠️ Важное предупреждение об ИИ",
+                    "content": "Системы искусственного интеллекта могут генерировать некорректную, неточную информацию или «галлюцинации». <strong>Вы несете единоличную ответственность за проверку, подтверждение и утверждение любого контента, созданного платформой</strong>, перед его публикацией или отправкой клиентам. Поставщик не несет ответственности за ошибки в описаниях объектов недвижимости, транскрипциях или автоматически сгенерированных анализах."
+                }
+            },
+            "ip": {
+                "title": "3. Интеллектуальная собственность и данные",
+                "platform": {
+                    "title": "3.1. Право собственности на платформу",
+                    "content": "Программное обеспечение, дизайн, исходный код и алгоритмы Casalvi CRM являются исключительной собственностью Поставщика или его лицензиаров."
+                },
+                "user_data": {
+                    "title": "3.2. Данные пользователя",
+                    "content": "<strong>Вы сохраняете полное право собственности на данные, загружаемые в платформу</strong> (например: карточки объектов, данные ваших клиентов, заметки). Мы действуем только как обработчики данных для предоставления вам услуги. Мы не будем продавать или передавать данные ваших клиентов третьим лицам в рекламных целях."
+                }
+            },
+            "accounts": {
+                "title": "4. Учетные записи и ответственность",
+                "content": "Вы несете ответственность за сохранение конфиденциальности вашего пароля. Вы принимаете ответственность за все действия, происходящие под вашей учетной записью. Использование услуги предназначено исключительно для профессионалов и компаний (B2B)."
+            },
+            "billing": {
+                "title": "5. Подписки, платежи и отмены",
+                "intro": "Платные услуги (планы Pro, Business и Agency) оплачиваются по рекуррентной подписке (ежемесячно или ежегодно).",
+                "secure_payment": "<strong>Безопасная оплата:</strong> Все платежи обрабатываются через Stripe. Casalvi CRM не хранит ваши полные банковские данные.",
+                "renewal": "<strong>Автоматическое продление:</strong> Ваша подписка будет автоматически продлеваться в конце каждого цикла, если вы не отмените ее.",
+                "cancellation": "<strong>Политика отмены:</strong> Вы можете отменить подписку в любое время из панели управления. **Отмена вступит в силу по окончании текущего расчетного цикла**. Вы сохраните доступ к платным функциям до этой даты.",
+                "refunds": "<strong>Без возвратов:</strong> Полные или частичные возвраты за неиспользованные периоды обслуживания не производятся, за исключением случаев, когда это требуется по применимому законодательству.",
+                "changes": "<strong>Изменения плана:</strong> При переходе на более высокий план плата будет скорректирована немедленно или в следующем цикле. При переходе на более низкий план изменение вступит в силу по окончании текущего цикла."
+            },
+            "liability": {
+                "title": "6. Ограничение ответственности",
+                "content": "В максимальной степени, разрешенной применимым законодательством Испании, Поставщик не несет ответственности за косвенные, случайные или последующие убытки, включая потерю прибыли или данных, возникшие в результате использования услуги."
+            },
+            "law": {
+                "title": "7. Применимое право и юрисдикция",
+                "content": "Настоящие условия регулируются законодательством Испании. В случае любых споров обе стороны подчиняются судам и трибуналам по месту нахождения Поставщика, если только закон не предусматривает иное в обязательном порядке."
+            },
+            "footer_contact": "Юридические вопросы? Свяжитесь с нами по {email}"
+        },
+        "cookies": {
+            "title": "Политика использования файлов cookie",
+            "last_updated": "Последнее обновление: 24 декабря 2025 г.",
+            "what_are": {
+                "title": "1. Что такое файлы cookie?",
+                "content": "Файлы cookie — это небольшие текстовые файлы, которые веб-сайты сохраняют в вашем браузере, чтобы запоминать информацию о вашем посещении."
+            },
+            "used_cookies": {
+                "title": "2. Используемые файлы cookie",
+                "intro": "В Casalvi CRM мы используем <strong>исключительно технические и необходимые файлы cookie</strong> для функционирования сервиса. Мы не используем рекламные файлы cookie или инвазивные трекинговые файлы cookie третьих сторон.",
+                "essential_title": "Необходимые файлы cookie (Обязательные)",
+                "essential_desc": "Эти файлы cookie необходимы для навигации и использования основных функций (таких как вход в систему).",
+                "table": {
+                    "provider": "Название / Поставщик",
+                    "purpose": "Назначение",
+                    "duration": "Срок действия",
+                    "supabase": {
+                        "name": "sb-*-auth-token (Supabase)",
+                        "purpose": "Безопасное поддержание вашей пользовательской сессии.",
+                        "duration": "Постоянная (на время сессии)"
+                    },
+                    "stripe": {
+                        "name": "__stripe_mid / __stripe_sid (Stripe)",
+                        "purpose": "Обнаружение мошенничества и безопасность платежей.",
+                        "duration": "1 год / 30 минут"
+                    }
+                }
+            },
+            "management": {
+                "title": "3. Управление файлами cookie",
+                "content": "Поскольку мы используем только необходимые файлы cookie для предоставления запрашиваемого сервиса, их установка не требует предварительного согласия согласно действующему законодательству (ст. 22.2 LSSI). Однако вы можете заблокировать их в настройках вашего браузера, хотя это помешает вам войти в платформу."
+            }
+        }
+    }
+}

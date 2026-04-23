@@ -1,0 +1,742 @@
+{
+    "common": {
+        "loading": "Laden...",
+        "save": "Opslaan",
+        "cancel": "Annuleren",
+        "confirm": "Bevestigen",
+        "error": "Fout",
+        "success": "Succes"
+    },
+    "voice": {
+        "ready": "Klaar om op te nemen",
+        "recording": "Opnemen...",
+        "processing": "Verwerken...",
+        "click_start": "Klik om te starten",
+        "click_stop": "Klik om te stoppen",
+        "thinking": "AI denkt na",
+        "permission_denied": "Toegang geweigerd",
+        "upgrade_title": "Premium Functie",
+        "upgrade_desc": "AI spraakdictatie is alleen beschikbaar in het Pro-abonnement.",
+        "mic_permission_title": "Microphone permission required",
+        "mic_permission_desc": "Please allow microphone access in your browser",
+        "mic_error_title": "Microphone error",
+        "mic_error_desc": "Check permissions.",
+        "not_understood": "I didn't understand you",
+        "success_exclamation": "Done!",
+        "processed": "Command processed",
+        "completed": "Action completed",
+        "cancelled": "Action cancelled",
+        "incomplete_selection": "Incomplete selection",
+        "tell_me_name": "Tell me the contact name.",
+        "who_referring": "Who are you referring to?",
+        "found_similar": "similar contacts",
+        "unauthorized": "User not authenticated",
+        "actions_detected": "actions detected",
+        "confirm_actions": "Confirm actions",
+        "create": "Create",
+        "update": "Update",
+        "confirm_button_suffix": "actions"
+    },
+    "ai_chat": {
+        "title": "Casalvi Genius",
+        "role_support": "Support & Assistant",
+        "role_sales": "Sales Consultant",
+        "greeting": "👋 Hello! I'm your personal assistant.",
+        "placeholder_auth": "Ask me how to create contacts, use the map, or upgrade your plan.",
+        "placeholder_guest": "Would you like to discover how Casalvi can revolutionize your real estate business?",
+        "recommendation": "Recommendation",
+        "upgrade_plan": "Upgrade Plan",
+        "go_to_section": "Go to section",
+        "input_placeholder": "Type your question...",
+        "disclaimer": "Casalvi Genius may make mistakes."
+    },
+    "valuation": {
+        "title": "AI Waardering",
+        "estimated_price": "Geschatte Prijs",
+        "confidence": "Vertrouwen"
+    },
+    "nav": {
+        "dashboard": "Dashboard",
+        "contacts": "Contacten",
+        "properties": "Eigendommen",
+        "settings": "Instellingen"
+    },
+    "dashboard": {
+        "sidebar": {
+            "dashboard": "Dashboard",
+            "contacts": "Contacten",
+            "properties": "Eigendommen",
+            "leads": "Leads",
+            "calendar": "Kalender",
+            "voice_ai": "Voice AI",
+            "settings": "Instellingen",
+            "logout": "Uitloggen",
+            "profile": "Profiel",
+            "inbox": "Inbox",
+            "analytics": "Analytics",
+            "map": "Farming Kaart",
+            "tools": "Tools",
+            "dashboard_subtitle": "Overzicht van uw activiteit en kansen",
+            "expand": "Uitklappen",
+            "collapse": "Inklappen",
+            "voice_ai_subtitle": "AI Assistant",
+            "agent_role": "Makelaar",
+            "theme": "Thema"
+        },
+        "quick_actions": {
+            "title": "Volgende Stap",
+            "subtitle": "Nieuw contact of pand?",
+            "add_contact": "+ Contact",
+            "add_property": "+ Pand"
+        },
+        "inbox": {
+            "title": "Berichten",
+            "tabs": {
+                "inbox": "Postvak IN",
+                "sent": "Verzonden"
+            },
+            "empty": "Map leeg",
+            "to": "Aan:",
+            "from": "Van:",
+            "crm_detected": "CRM Klant Gedetecteerd",
+            "back": "Terug",
+            "placeholder": "Schrijf je antwoord hier...",
+            "generate_ai": "Genereer met AI",
+            "context_active": "CRM Context actief voor:",
+            "context_external": "Antwoord aan extern",
+            "send": "Antwoord Verzenden",
+            "select": "Selecteer een e-mail om te lezen",
+            "generated": "✨ Antwoord Gegenereerd",
+            "check": "Controleer voor verzenden.",
+            "sent_success": "Verzonden",
+            "sent_desc": "Antwoord succesvol verzonden."
+        },
+        "stats": {
+            "total_contacts": "Totaal Contacten",
+            "active_properties": "Actieve Eigendommen",
+            "portfolio_value": "Portefeuille Waarde"
+        },
+        "agenda": {
+            "title": "Agenda van Vandaag",
+            "subtitle": "Bekijk je maand en beheer je afspraken",
+            "no_events": "Geen evenementen vandaag",
+            "view_all": "Alles bekijken"
+        },
+        "analytics": {
+            "title": "Prestaties",
+            "subtitle": "Analyseer belangrijke statistieken, KPI's en bedrijfsstatus"
+        },
+        "map": {
+            "title": "Real-time Operaties",
+            "subtitle": "Visualiseer activiteit en routes van je team in het veld."
+        },
+        "tools": {
+            "title": "Gereedschappen",
+            "subtitle": "Importeer en beheer massale gegevens voor uw bureau"
+        },
+        "feed": {
+            "title": "Smart Feed",
+            "recent_activity": "Recente Activiteit",
+            "no_opportunities": "Geen openstaande kansen",
+            "all_clear": "Alles schoon! 🎉",
+            "recommended_actions": "aanbevolen acties"
+        },
+        "welcome_modal": {
+            "title_pro": "Welkom bij het Pro Abonnement!",
+            "desc_pro": "Je hebt de volledige kracht van Casalvi AI ontgrendeld.",
+            "title_business": "Welkom bij het Business Abonnement!",
+            "desc_business": "Je team is klaar voor de start.",
+            "title_agency": "Welkom bij het Agency Abonnement!",
+            "desc_agency": "De ultieme oplossing voor marktleiders.",
+            "title_default": "Welkom bij Casalvi!",
+            "desc_default": "Bedankt dat je meedoet aan de AI-revolutie.",
+            "button_start": "Laten we verkopen! 🚀"
+        },
+        "top_leads": {
+            "title": "Top Leads",
+            "subtitle": "Kansen met de hoogste conversiekans",
+            "empty_title": "Nog geen hot leads",
+            "empty_desc": "Begin activiteiten te loggen, AI vindt kansen",
+            "stage_prospect": "Prospect",
+            "stage_lead": "Lead",
+            "stage_customer": "Klant",
+            "stage_inactive": "Inactief",
+            "stage_unclassified": "Niet geclassificeerd"
+        },
+        "properties": {
+            "title": "Eigendommen",
+            "subtitle": "Vastgoedportefeuille en verkooppijplijn",
+            "new_property": "Nieuwe Eigendom",
+            "view_pipeline": "Pijplijn",
+            "view_list": "Lijst",
+            "search_placeholder": "📍 Zoeken op gebied of straat...",
+            "stats_total": "Totaal",
+            "stats_active": "Actief",
+            "stats_pipeline": "Pijplijn",
+            "stats_value": "Waarde",
+            "tab_active": "Te Koop",
+            "tab_pipeline": "Pijplijn",
+            "tab_sold": "Verkocht",
+            "tab_all": "Alles",
+            "empty_loading": "Laden...",
+            "empty_title": "Geen eigendommen gevonden.",
+            "toast_search_success": "Zoeken voltooid",
+            "toast_search_desc": "eigendommen gevonden in de omgeving.",
+            "toast_error": "Fout bij zoeken.",
+            "status_valuation": "Waardering",
+            "status_listing": "Voorbereiding",
+            "status_active": "Te Koop",
+            "status_offer": "Bod",
+            "status_reserved": "Gereserveerd",
+            "status_sold": "Verkocht",
+            "total_value": "Totale Waarde",
+            "actions": "Acties",
+            "view_details": "Bekijk details",
+            "move_to": "Verplaats naar...",
+            "no_properties": "Geen eigendommen",
+            "detail": {
+                "not_found": "Eigendom niet gevonden",
+                "tabs": {
+                    "management": "Beheer",
+                    "matching": "Matching",
+                    "activity": "Activiteit",
+                    "report": "Rapport"
+                },
+                "sections": {
+                    "valuation": "AI Waardering",
+                    "tools": "AI Tools",
+                    "offers": "Biedingen",
+                    "closing": "Afsluiting",
+                    "matching": "Kopers",
+                    "activity": "Recente Activiteit",
+                    "report": "Feedback Rapport",
+                    "technical": "Details",
+                    "photos": "Foto's"
+                },
+                "actions": {
+                    "back": "Terug",
+                    "edit": "Bewerken"
+                },
+                "status": {
+                    "reserved": "Gereserveerd",
+                    "sold": "Verkocht",
+                    "active": "Actief"
+                }
+            }
+        },
+        "contacts": {
+            "title": "Contacten",
+            "subtitle": "Beheer uw klanten en prospects",
+            "new_contact": "Nieuw Contact",
+            "search_placeholder": "Zoeken op naam, e-mail of telefoon...",
+            "tab_all": "Alles",
+            "tab_buyers": "Kopers",
+            "tab_owners": "Eigenaars",
+            "tab_sellers": "Verkopers",
+            "empty_title": "Geen contacten gevonden",
+            "empty_desc": "Geen contacten komen overeen met uw zoekopdracht.",
+            "clear_filters": "Filters wissen",
+            "role_buyer": "Koper",
+            "role_seller": "Verkoper",
+            "role_owner": "Eigenaar",
+            "actions": "Acties",
+            "view_sheet": "Bekijk fiche",
+            "call": "Bellen",
+            "whatsapp": "WhatsApp",
+            "detail": {
+                "tabs": {
+                    "overview": "Overview",
+                    "matching": "Matching",
+                    "activity": "History"
+                },
+                "overview": {
+                    "properties_portfolio": "Property Portfolio",
+                    "manage_properties_desc": "Manage properties in the main section.",
+                    "offers": "Offers",
+                    "recent_activity": "Recent Activity",
+                    "view_all": "View all",
+                    "register_first_followup": "Log first follow-up"
+                },
+                "matching": {
+                    "compatible_properties": "Compatible Properties"
+                },
+                "activity": {
+                    "register_new_interaction": "Log New Interaction",
+                    "open": "Open",
+                    "cancel": "Cancel"
+                }
+            }
+        },
+        "settings": {
+            "title": "Instellingen",
+            "subtitle": "Beheer uw account, team en voorkeuren",
+            "tabs": {
+                "general": "Algemeen",
+                "integrations": "Integraties",
+                "team": "Team",
+                "billing": "Plan",
+                "email": "E-mail"
+            },
+            "currency": {
+                "title": "Valuta",
+                "description": "Selecteer de valuta om prijzen en analyses te bekijken.",
+                "placeholder": "Selecteer valuta"
+            },
+            "session": {
+                "title": "Sessie",
+                "logout": "Uitloggen",
+                "logout_desc": "Bij het uitloggen wordt u omgeleid naar de startpagina"
+            },
+            "profile": {
+                "title": "Mijn Profiel",
+                "first_name": "Naam",
+                "last_name": "Achternaam",
+                "user_id": "Gebruiker ID",
+                "id_hint": "Handig voor ondersteuning"
+            },
+            "agency": {
+                "title": "Kantooridentiteit",
+                "description": "Deze details verschijnen op uw rapporten en vastgoedfiches.",
+                "edit_title": "Kantoornaam bewerken",
+                "edit_desc": "Wijzig uw kantoornaam. Deze wijziging is zichtbaar voor alle teamleden.",
+                "name_label": "Kantoornaam",
+                "name_placeholder": "Bv: Vastgoed ABC",
+                "name": "Handelsnaam",
+                "phone": "Kantoortelefoon",
+                "email": "Contact E-mail",
+                "address": "Fysiek Adres",
+                "website": "Website",
+                "save": "Wijzigingen opslaan",
+                "saving": "Opslaan...",
+                "success": "Kantoor bijgewerkt",
+                "error": "Onverwachte fout"
+            },
+            "subscription": {
+                "manage": "Abonnement beheren",
+                "portal_error": "Fout bij verbinden met portaal",
+                "plan_free": "Gratis Plan",
+                "plan_pro": "Pro Plan",
+                "plan_business": "Business Plan",
+                "plan_agency": "Agency Plan",
+                "status_active": "Actief",
+                "status_pending": "In afwachting",
+                "status_inactive": "Inactief",
+                "contacts": "Contacten",
+                "properties": "Eigendommen",
+                "licenses": "Teamlicenties",
+                "upgrade": "Plan upgraden",
+                "change_plan": "Plan wijzigen"
+            },
+            "feed": {
+                "title": "Portaaldistributie (XML)",
+                "description": "Synchroniseer uw eigendommen automatisch met Idealista, Fotocasa, Kyero en meer.",
+                "instructions": "Kopieer deze link en plak deze in de sectie 'Import' van uw vastgoedportaal.",
+                "copied": "Link gekopieerd"
+            },
+            "calendar": {
+                "title": "Mobiele Synchronisatie",
+                "description": "Zie uw Casalvi bezoeken op iPhone, Google Calendar of Outlook.",
+                "copied": "Link gekopieerd",
+                "ios_instructions": "iPhone / iPad > Instellingen > Agenda > Accounts > Account toevoegen > Andere > Agenda-abonnement toevoegen.",
+                "google_instructions": "Google Calendar > '+' naast Andere agenda's > Via URL."
+            },
+            "notifications": {
+                "title": "Klantmeldingen",
+                "description": "Wilt u automatisch bevestigingsmails sturen bij het plannen van een bezoek?",
+                "auto_label": "Automatisch",
+                "auto_desc": "Een e-mail wordt altijd naar de klant gestuurd, zonder u te vragen.",
+                "manual_label": "Handmatig (Aanbevolen)",
+                "manual_desc": "We tonen u een 'E-mail verzenden' selectievakje bij het maken van de afspraak.",
+                "off_label": "Uitgeschakeld",
+                "off_desc": "E-mails worden nooit verzonden.",
+                "save": "Configuratie opslaan"
+            },
+            "email": {
+                "tab_smtp": "Verzenden (SMTP)",
+                "tab_imap": "Ontvangen (IMAP)",
+                "tab_general": "Handtekening & Algemeen",
+                "config_title_smtp": "Verzendconfiguratie (SMTP)",
+                "config_desc_smtp": "Om massa-e-mails en antwoorden te verzenden vanuit de CRM.",
+                "config_title_imap": "Ontvangstconfiguratie (IMAP)",
+                "config_desc_imap": "Om antwoorden te lezen en uw inbox te tonen.",
+                "server": "Server (Host)",
+                "port": "Poort",
+                "user": "Gebruiker",
+                "password": "Wachtwoord",
+                "test_connection": "Verbinding testen",
+                "save": "Configuratie opslaan",
+                "quick_setup": "Snelle installatie",
+                "password_help": "Welk wachtwoord gebruiken?"
+            },
+            "team": {
+                "invite_dialog": {
+                    "title": "Lid uitnodigen",
+                    "description": "Genereer een uitnodigingscode om te delen met een nieuw teamlid.",
+                    "email_label": "E-mail nieuw lid",
+                    "cancel": "Annuleren",
+                    "generate": "Code genereren",
+                    "generating": "Genereren...",
+                    "success_title": "Uitnodigingscode gegenereerd",
+                    "success_desc": "Deel deze code met de gebruiker om lid te worden van uw kantoor.",
+                    "copy_code": "Code gekopieerd",
+                    "close": "Sluiten"
+                },
+                "title": "Uw Team",
+                "subtitle": "Beheer de toegang van uw makelaars tot de CRM.",
+                "active_members": "Actieve Leden",
+                "pending_invites": "Openstaande Uitnodigingen",
+                "invite_button": "Lid Uitnodigen",
+                "role_owner": "Eigenaar",
+                "role_admin": "Beheerder",
+                "role_manager": "Manager",
+                "role_agent": "Makelaar",
+                "delete_dialog": {
+                    "title": "Lid verwijderen?",
+                    "description": "Deze actie is onomkeerbaar.",
+                    "confirm": "Verwijderen",
+                    "cancel": "Annuleren"
+                }
+            }
+        }
+    },
+    "landing": {
+        "navbar": {
+            "login": "Inloggen",
+            "signup": "Registreren",
+            "features": "Functies",
+            "pricing": "Prijzen"
+        },
+        "hero": {
+            "badge": "🚀 Vastgoed CRM van de Toekomst",
+            "title": "Sluit meer deals met Kunstmatige Intelligentie",
+            "subtitle": "Casalvi AI CRM is het alles-in-één platform voor moderne makelaars.",
+            "cta_primary": "Start Gratis",
+            "cta_secondary": "Bekijk Demo",
+            "productivity_label": "Productiviteit"
+        },
+        "features": {
+            "voice_title": "AI Spraakassistent",
+            "voice_desc": "Dicteer notities en maak contacten aan met je stem.",
+            "farming_title": "Smart Farming",
+            "farming_desc": "Identificeer kansen automatisch.",
+            "matching_title": "Voorspellende Matching",
+            "matching_desc": "Verbind kopers met perfecte eigendommen.",
+            "legal_title": "AI Juridische Scanner",
+            "legal_desc": "Analyseer contracten in seconden.",
+            "valuation_title": "Auto-Waardering",
+            "valuation_desc": "Nauwkeurige waarderingen op basis van marktgegevens.",
+            "analytics_title": "Voorspellende Analytics",
+            "analytics_desc": "Visualiseer trends en prognoses.",
+            "marketing_title": "Autonomous Marketing",
+            "marketing_desc": "From SEO descriptions to segmented email campaigns. AI writes copy that sells and designs strategies to reactivate your database.",
+            "badge": "Next Generation Tools",
+            "title_1": "Powered by",
+            "title_2": "Artificial Intelligence",
+            "description": "It's not just software, it's your competitive advantage."
+        },
+        "pricing": {
+            "title": "Abonnementen voor elke fase",
+            "subtitle": "Van zelfstandige makelaars tot grote kantoren",
+            "starter_name": "Starter",
+            "starter_price": "Gratis",
+            "starter_desc": "Perfect om te beginnen",
+            "pro_name": "Pro",
+            "pro_price": "€49/mnd",
+            "pro_desc": "Voor professionals",
+            "business_name": "Business",
+            "business_price": "€99/mnd",
+            "business_desc": "Voor teams",
+            "agency_name": "Agency",
+            "agency_price": "€199/mnd",
+            "agency_desc": "Voor kantoren",
+            "cta_button": "Starten",
+            "feature_contacts": "contacten",
+            "feature_properties": "eigendommen",
+            "feature_ai_voice": "AI Spraak",
+            "feature_analytics": "Analytics",
+            "feature_team": "Team",
+            "feature_support": "Support",
+            "plan_features": {
+                "starter_props": "Tot 2 panden",
+                "starter_contacts": "Tot 20 contacten",
+                "starter_crm": "Basis CRM",
+                "starter_mobile": "Mobiele app",
+                "starter_email": "E-mail ondersteuning",
+                "pro_props": "Onbeperkte panden",
+                "pro_contacts": "Onbeperkte contacten",
+                "pro_voice": "🎙️ AI spraakdictatie",
+                "pro_matching": "🧩 AI Matchmaker",
+                "pro_farming": "🌾 Farming",
+                "pro_writer": "✍️ AI schrijver",
+                "pro_integrations": "Geavanceerde integraties",
+                "pro_priority": "Prioritaire ondersteuning",
+                "business_users": "Tot 3 makelaars",
+                "business_dashboard": "Team dashboard",
+                "business_leads": "Gedeeld leadbeheer",
+                "agency_users": "Tot 5 gebruikers",
+                "agency_analytics": "Geavanceerde analyses"
+            }
+        },
+        "footer": {
+            "product": "Product",
+            "features": "Functies",
+            "pricing": "Prijzen",
+            "docs": "Documentatie",
+            "company": "Bedrijf",
+            "about": "Over ons",
+            "blog": "Blog",
+            "contact": "Contact",
+            "legal": "Juridisch",
+            "privacy": "Privacy",
+            "terms": "Voorwaarden",
+            "copyright": "© 2025 Casalvi AI. Alle rechten voorbehouden.",
+            "tagline": "The Real Estate CRM that thinks for you.",
+            "demo": "Demo",
+            "integrations": "Integrations",
+            "careers": "Careers",
+            "cookies": "Cookies",
+            "security": "Security"
+        },
+        "cta": {
+            "title": "Klaar om je bedrijf te transformeren?",
+            "subtitle": "Sluit je aan bij duizenden makelaars.",
+            "button": "Start Gratis"
+        },
+        "blog": {
+            "title": "Blog & News",
+            "subtitle": "Insights on the future of real estate.",
+            "read_more": "Read more",
+            "back_to_blog": "Back to Blog",
+            "view_more_articles": "View more articles"
+        },
+        "contact": {
+            "title": "Let's Talk",
+            "subtitle": "Questions about Casalvi? Our team is here to help you digitize your real estate business.",
+            "info": {
+                "title": "Contact Information",
+                "email_label": "Email",
+                "email_note": "Response in less than 24h",
+                "phone_label": "Phone",
+                "phone_note": "Monday to Friday, 9h - 18h",
+                "office_label": "Office",
+                "office_note": "Headquarters",
+                "address": "Madrid, Spain"
+            },
+            "form": {
+                "success_title": "Message Sent!",
+                "success_desc": "Thanks for contacting us. We received your message and will respond shortly.",
+                "send_another": "Send another message",
+                "first_name": "First Name",
+                "last_name": "Last Name",
+                "email": "Email",
+                "phone": "Phone (Optional)",
+                "message": "Message",
+                "message_placeholder": "How can we help?",
+                "submit": "Send Message",
+                "sending": "Sending...",
+                "errors": {
+                    "required": "This field is required"
+                }
+            }
+        },
+        "about": {
+            "hero": {
+                "title": "From Agent to Agent.",
+                "subtitle": "Casalvi wasn't born in a boardroom. It was born on the streets of Madrid, between viewings, calls, and paperwork."
+            },
+            "origin": {
+                "greeting_1": "Hi, I'm ",
+                "greeting_2": ", founder of Casalvi.",
+                "p1": "During my time as a real estate agent in Madrid, I experienced the chaos of our profession firsthand. I know what it's like to waste hours keying in data, managing hundreds of contacts, and buried in bureaucracy instead of doing what matters: selling.",
+                "p2": "I realized the modern agent needs to focus on who really needs to buy or sell, not on manual work."
+            },
+            "vision": {
+                "title": "More than a CRM, your silent partner.",
+                "subtitle": "We created Casalvi to give you superpowers. A tool that works while you sleep."
+            },
+            "benefits": {
+                "matchmaker": {
+                    "title": "Smart Matchmaker",
+                    "desc": "Tells you the best buyer without waiting weeks for a financial study."
+                },
+                "market": {
+                    "title": "Market Prediction",
+                    "desc": "Detects which property will sell soon in your area before anyone else."
+                },
+                "viability": {
+                    "title": "Feasibility Analysis",
+                    "desc": "An AI analyst that confirms if a deal is viable before you waste time."
+                }
+            },
+            "closing": {
+                "quote": "\"Reclaim your time. Let AI handle the rest.\"",
+                "role": "Founder"
+            }
+        },
+        "auth": {
+            "login_title": "Welkom terug",
+            "signup_title": "Account aanmaken",
+            "email_label": "E-mail",
+            "password_label": "Wachtwoord",
+            "name_label": "Naam",
+            "login_button": "Inloggen",
+            "signup_button": "Registreren",
+            "or_text": "of",
+            "google_button": "Google",
+            "switch_to_signup": "Geen account?",
+            "switch_to_login": "Heb je al een account?",
+            "signup_desc": "Join agents already automating their work with AI.",
+            "login_desc": "Access your CRM and manage properties in seconds."
+        }
+    },
+    "metadata": {
+        "title_default": "Casalvi | AI for your CRM",
+        "title_template": "%s | Casalvi AI",
+        "description": "Power your real estate business with Casalvi. The first AI CRM that automates lead capture, predicts closings, and is voice-controlled. Try it free today.",
+        "keywords": "real estate crm, artificial intelligence, real estate, proptech, automation, real estate agents, ai real estate",
+        "og_title": "Casalvi | AI for your CRM",
+        "og_description": "Manage your real estate business by voice. The first platform combining CRM, Voice Assistant, and Predictive Matching."
+    },
+    "legal": {
+        "privacy": {
+            "title": "Privacybeleid",
+            "last_updated": "Laatst bijgewerkt: 24 december 2025",
+            "controller": {
+                "title": "1. Verwerkingsverantwoordelijke",
+                "content": "{name} (hierna \"Casalvi CRM\"), met BTW-nummer {nif}, is verantwoordelijk voor de verwerking van uw persoonsgegevens."
+            },
+            "collected_data": {
+                "title": "2. Welke gegevens verzamelen we",
+                "account": "<strong>Accountgegevens:</strong> Naam, achternaam, e-mail en wachtwoord (versleuteld).",
+                "billing": "<strong>Facturatiegegevens:</strong> Extern beheerd door Stripe (wij slaan geen volledige kaartgegevens op).",
+                "usage": "<strong>Gebruiksgegevens:</strong> Informatie over hoe u met het platform omgaat om de service te verbeteren.",
+                "user_content": "<strong>Gebruikersinhoud:</strong> Eigendommen en contacten die u uploadt om te beheren (wij fungeren als Verwerkers)."
+            },
+            "purpose": {
+                "title": "3. Doel van de Verwerking",
+                "intro": "Wij verwerken uw gegevens om:",
+                "service": "De gecontracteerde CRM-dienst voor onroerend goed te leveren.",
+                "billing": "Betalingen en facturatie te verwerken.",
+                "notifications": "Belangrijke meldingen over uw account of service-updates te versturen.",
+                "ai": "Functionaliteiten voor Kunstmatige Intelligentie te bieden."
+            },
+            "third_parties": {
+                "title": "4. Verwerkers (Derden)",
+                "intro": "Om de dienst te leveren, delen we strikt noodzakelijke gegevens met de volgende technologische leveranciers, die allemaal voldoen aan veiligheidsnormen:",
+                "table_provider": "Leverancier",
+                "table_function": "Functie",
+                "table_location": "Locatie / Garanties",
+                "providers": {
+                    "supabase": {
+                        "function": "Database en Authenticatie",
+                        "location": "AWS (EU/Ierland) - AVG"
+                    },
+                    "stripe": {
+                        "function": "Betalingsverwerking",
+                        "location": "VS (Data Privacy Framework)"
+                    },
+                    "ai_models": {
+                        "name": "OpenAI / DeepSeek",
+                        "function": "Artificiële Intelligentie Modellen",
+                        "location": "VS/Globaal. Gegevens verwerkt onder vertrouwelijkheidsovereenkomsten en NIET gebruikt voor het trainen van openbare modellen."
+                    },
+                    "vercel": {
+                        "function": "Hosting en Infrastructuur",
+                        "location": "Globaal (CDN) - AVG compliance"
+                    }
+                }
+            },
+            "rights": {
+                "title": "5. Uw Rechten",
+                "content": "In overeenstemming met de AVG heeft u recht op toegang, rectificatie en verwijdering van uw gegevens, evenals op beperking of bezwaar tegen de verwerking en op overdraagbaarheid van de gegevens. U kunt deze rechten uitoefenen door te schrijven naar {email}."
+            },
+            "security": {
+                "title": "6. Beveiliging",
+                "content": "We passen technische maatregelen toe (SSL-versleuteling, beveiligde databases, toegangscontrole) om uw informatie te beschermen tegen ongeautoriseerde toegang."
+            }
+        },
+        "terms": {
+            "title": "Gebruiksvoorwaarden",
+            "last_updated": "Laatst bijgewerkt: 24 december 2025",
+            "info_legal": {
+                "title": "1. Juridische Informatie en Acceptatie",
+                "content": "Deze Gebruiksvoorwaarden regelen het gebruik van de dienst <strong>Casalvi CRM</strong>, eigendom van <strong>{name}</strong>, met BTW-nummer <strong>{nif}</strong> (hierna \"de Aanbieder\").",
+                "acceptance": "Door toegang te krijgen tot en gebruik te maken van ons platform, accepteert u deze voorwaarden volledig. Als u het niet eens bent, verzoeken wij u de dienst niet te gebruiken."
+            },
+            "service_desc": {
+                "title": "2. Dienstbeschrijving en Gebruik van AI",
+                "content": "Casalvi CRM is een beheerstool voor makelaars die gebruikmaakt van Artificiële Intelligentie (AI) voor functionaliteiten zoals tekstschrijven, spraaktranscriptie en data-analyse.",
+                "warning": {
+                    "title": "⚠️ Belangrijke mededeling over AI",
+                    "content": "Artificiële Intelligentie-systemen kunnen onjuiste, onnauwkeurige informatie of \"hallucinaties\" genereren. <strong>U bent als enige verantwoordelijk voor het controleren, verifiëren en goedkeuren van alle inhoud die door het platform wordt gegenereerd</strong> voordat u deze publiceert of naar klanten verzendt. De Aanbieder is niet aansprakelijk voor fouten in eigendomsbeschrijvingen, transcripties of automatisch gegenereerde analyses."
+                }
+            },
+            "ip": {
+                "title": "3. Intellectueel Eigendom en Gegevens",
+                "platform": {
+                    "title": "3.1. Eigendom van het Platform",
+                    "content": "De software, het ontwerp, de broncode en algoritmen van Casalvi CRM zijn exclusief eigendom van de Aanbieder of diens licentiegevers."
+                },
+                "user_data": {
+                    "title": "3.2. Gebruikersgegevens",
+                    "content": "<strong>U behoudt volledig eigendom van de gegevens die u naar het platform uploadt</strong> (bijv.: eigendomsfiches, klantgegevens, notities). Wij fungeren alleen als verwerker om u de dienst te leveren. Wij zullen de gegevens van uw klanten niet verkopen of delen met derden voor advertentiedoeleinden."
+                }
+            },
+            "accounts": {
+                "title": "4. Accounts en Verantwoordelijkheid",
+                "content": "U bent verantwoordelijk voor het geheim houden van uw wachtwoord. U aanvaardt de verantwoordelijkheid voor alle activiteiten die onder uw account plaatsvinden. Het gebruik van de dienst is uitsluitend voorbehouden aan professionals en bedrijven (B2B)."
+            },
+            "billing": {
+                "title": "5. Abonnementen, Betalingen en Annuleringen",
+                "intro": "Betaalde diensten (Pro-, Business- en Agency-abonnementen) worden afgerekend via een terugkerend abonnement (maandelijks of jaarlijks).",
+                "secure_payment": "<strong>Veilige Betaling:</strong> Alle betalingen worden verwerkt door Stripe. Casalvi CRM slaat uw volledige bankgegevens niet op.",
+                "renewal": "<strong>Automatische Verlenging:</strong> Uw abonnement wordt automatisch verlengd aan het einde van elke cyclus, tenzij u het opzegt.",
+                "cancellation": "<strong>Annuleringsbeleid:</strong> U kunt uw abonnement op elk moment opzeggen via het dashboard. **De opzegging wordt van kracht aan het einde van de huidige factureringscyclus**. U behoudt toegang tot de betaalde functionaliteiten tot die datum.",
+                "refunds": "<strong>Geen Terugbetalingen:</strong> Er worden geen volledige of gedeeltelijke terugbetalingen verstrekt voor ongebruikte dienstperioden, tenzij de toepasselijke wetgeving anders vereist.",
+                "changes": "<strong>Abonnementswijzigingen:</strong> Bij een upgrade naar een hoger abonnement wordt de betaling onmiddellijk of in de volgende cyclus aangepast. Bij een downgrade naar een lager abonnement wordt de wijziging toegepast aan het einde van de huidige cyclus."
+            },
+            "liability": {
+                "title": "6. Aansprakelijkheidsbeperking",
+                "content": "Voor zover maximaal toegestaan door de toepasselijke wetgeving in Spanje, is de Aanbieder niet aansprakelijk voor indirecte, incidentele of gevolgschade, inclusief verlies van winst of gegevens, voortvloeiend uit het gebruik van de dienst."
+            },
+            "law": {
+                "title": "7. Toepasselijk Recht en Rechtsmacht",
+                "content": "Deze voorwaarden worden beheerst door de Spaanse wetgeving. Voor geschillen onderwerpen beide partijen zich aan de rechtbanken van de woonplaats van de Aanbieder, tenzij de wet anders bepaalt."
+            },
+            "footer_contact": "Juridische vragen? Neem contact met ons op via {email}"
+        },
+        "cookies": {
+            "title": "Cookiebeleid",
+            "last_updated": "Laatst bijgewerkt: 24 december 2025",
+            "what_are": {
+                "title": "1. Wat zijn cookies?",
+                "content": "Cookies zijn kleine tekstbestanden die websites in uw browser opslaan om informatie over uw bezoek te onthouden."
+            },
+            "used_cookies": {
+                "title": "2. Cookies die wij gebruiken",
+                "intro": "In Casalvi CRM gebruiken we <strong>uitsluitend technische en essentiële cookies</strong> voor de werking van de dienst. We gebruiken geen advertentiecookies of invasieve trackingcookies van derden.",
+                "essential_title": "Essentiële Cookies (Noodzakelijk)",
+                "essential_desc": "Deze cookies zijn onmisbaar om te kunnen navigeren en de basisfuncties te gebruiken (zoals inloggen).",
+                "table": {
+                    "provider": "Naam / Leverancier",
+                    "purpose": "Doel",
+                    "duration": "Duur",
+                    "supabase": {
+                        "name": "sb-*-auth-token (Supabase)",
+                        "purpose": "Houdt uw gebruikerssessie veilig ingelogd.",
+                        "duration": "Persistent (zolang de sessie duurt)"
+                    },
+                    "stripe": {
+                        "name": "__stripe_mid / __stripe_sid (Stripe)",
+                        "purpose": "Fraudedetectie en beveiliging bij betalingen.",
+                        "duration": "1 jaar / 30 minuten"
+                    }
+                }
+            },
+            "management": {
+                "title": "3. Cookiebeheer",
+                "content": "Aangezien we alleen essentiële cookies gebruiken om de aangevraagde dienst te leveren, is voor de installatie ervan geen voorafgaande toestemming vereist volgens de geldende regelgeving (art. 22.2 LSSI). U kunt ze echter blokkeren via de instellingen van uw browser, hoewel dit zal voorkomen dat u kunt inloggen op het platform."
+            }
+        }
+    }
+}

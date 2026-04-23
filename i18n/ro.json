@@ -1,0 +1,742 @@
+{
+    "common": {
+        "loading": "Se încarcă...",
+        "save": "Salvează",
+        "cancel": "Anulează",
+        "confirm": "Confirmă",
+        "error": "Eroare",
+        "success": "Succes"
+    },
+    "voice": {
+        "ready": "Pregătit de înregistrare",
+        "recording": "Înregistrare...",
+        "processing": "Procesare...",
+        "click_start": "Click pentru start",
+        "click_stop": "Click pentru stop",
+        "thinking": "IA gândește",
+        "permission_denied": "Permisiune refuzată",
+        "upgrade_title": "Funcție Premium",
+        "upgrade_desc": "Dictarea vocală IA este exclusivă planului Pro.",
+        "mic_permission_title": "Microphone permission required",
+        "mic_permission_desc": "Please allow microphone access in your browser",
+        "mic_error_title": "Microphone error",
+        "mic_error_desc": "Check permissions.",
+        "not_understood": "I didn't understand you",
+        "success_exclamation": "Done!",
+        "processed": "Command processed",
+        "completed": "Action completed",
+        "cancelled": "Action cancelled",
+        "incomplete_selection": "Incomplete selection",
+        "tell_me_name": "Tell me the contact name.",
+        "who_referring": "Who are you referring to?",
+        "found_similar": "similar contacts",
+        "unauthorized": "User not authenticated",
+        "actions_detected": "actions detected",
+        "confirm_actions": "Confirm actions",
+        "create": "Create",
+        "update": "Update",
+        "confirm_button_suffix": "actions"
+    },
+    "ai_chat": {
+        "title": "Casalvi Genius",
+        "role_support": "Support & Assistant",
+        "role_sales": "Sales Consultant",
+        "greeting": "👋 Hello! I'm your personal assistant.",
+        "placeholder_auth": "Ask me how to create contacts, use the map, or upgrade your plan.",
+        "placeholder_guest": "Would you like to discover how Casalvi can revolutionize your real estate business?",
+        "recommendation": "Recommendation",
+        "upgrade_plan": "Upgrade Plan",
+        "go_to_section": "Go to section",
+        "input_placeholder": "Type your question...",
+        "disclaimer": "Casalvi Genius may make mistakes."
+    },
+    "valuation": {
+        "title": "Evaluare IA",
+        "estimated_price": "Preț Estimat",
+        "confidence": "Încredere"
+    },
+    "nav": {
+        "dashboard": "Panou",
+        "contacts": "Contacte",
+        "properties": "Proprietăți",
+        "settings": "Setări"
+    },
+    "dashboard": {
+        "sidebar": {
+            "dashboard": "Panou",
+            "contacts": "Contacte",
+            "properties": "Proprietăți",
+            "leads": "Lead-uri",
+            "calendar": "Calendar",
+            "voice_ai": "Voice AI",
+            "settings": "Setări",
+            "logout": "Deconectare",
+            "profile": "Profil",
+            "inbox": "Inbox",
+            "analytics": "Analize",
+            "map": "Hartă Farming",
+            "tools": "Instrumente",
+            "dashboard_subtitle": "Prezentare generală a activității și oportunităților",
+            "expand": "Extinde",
+            "collapse": "Restrânge",
+            "voice_ai_subtitle": "Asistent IA",
+            "agent_role": "Agent",
+            "theme": "Temă"
+        },
+        "quick_actions": {
+            "title": "Următorul Pas",
+            "subtitle": "Contact sau proprietate nouă?",
+            "add_contact": "+ Contact",
+            "add_property": "+ Proprietate"
+        },
+        "inbox": {
+            "title": "Mesaje",
+            "tabs": {
+                "inbox": "Primite",
+                "sent": "Trimise"
+            },
+            "empty": "Dosar gol",
+            "to": "Către:",
+            "from": "De la:",
+            "crm_detected": "Client CRM Detectat",
+            "back": "Înapoi",
+            "placeholder": "Scrie răspunsul tău aici...",
+            "generate_ai": "Generează cu IA",
+            "context_active": "Context CRM activ pentru:",
+            "context_external": "Răspuns extern",
+            "send": "Trimite Răspuns",
+            "select": "Selectează un email pentru a citi",
+            "generated": "✨ Răspuns Generat",
+            "check": "Verifică înainte de a trimite.",
+            "sent_success": "Trimis",
+            "sent_desc": "Răspuns trimis cu succes."
+        },
+        "stats": {
+            "total_contacts": "Total Contacte",
+            "active_properties": "Proprietăți Active",
+            "portfolio_value": "Valoare Portofoliu"
+        },
+        "agenda": {
+            "title": "Agenda de Azi",
+            "subtitle": "Vizualizează luna și gestionează întâlnirile",
+            "no_events": "Niciun eveniment azi",
+            "view_all": "Vezi tot"
+        },
+        "analytics": {
+            "title": "Performanță",
+            "subtitle": "Analizează metricile cheie, KPI și starea afacerii"
+        },
+        "map": {
+            "title": "Operațiuni în Timp Real",
+            "subtitle": "Vizualizează activitatea și rutele echipei tale pe teren."
+        },
+        "tools": {
+            "title": "Instrumente de Date",
+            "subtitle": "Importă și gestionează date masive pentru agenția ta"
+        },
+        "feed": {
+            "title": "Smart Feed",
+            "recent_activity": "Activitate Recentă",
+            "no_opportunities": "Nicio oportunitate în așteptare",
+            "all_clear": "Totul clar! 🎉",
+            "recommended_actions": "acțiuni recomandate"
+        },
+        "welcome_modal": {
+            "title_pro": "Bun venit la Planul Pro!",
+            "desc_pro": "Ai deblocat toată puterea Casalvi AI.",
+            "title_business": "Bun venit la Planul Business!",
+            "desc_business": "Echipa ta este gata de decolare.",
+            "title_agency": "Bun venit la Planul Agency!",
+            "desc_agency": "Soluția supremă pentru liderii de piață.",
+            "title_default": "Bun venit la Casalvi!",
+            "desc_default": "Mulțumim că te-ai alăturat revoluției IA.",
+            "button_start": "Să începem vânzările! 🚀"
+        },
+        "top_leads": {
+            "title": "Top Lead-uri",
+            "subtitle": "Oportunități cu probabilitate mare de conversie",
+            "empty_title": "Niciun lead fierbinte încă",
+            "empty_desc": "Începe să înregistrezi activități, IA va găsi oportunități",
+            "stage_prospect": "Prospect",
+            "stage_lead": "Lead",
+            "stage_customer": "Client",
+            "stage_inactive": "Inactiv",
+            "stage_unclassified": "Neclasificat"
+        },
+        "properties": {
+            "title": "Proprietăți",
+            "subtitle": "Portofoliu imobiliar și pipeline de vânzări",
+            "new_property": "Nouă Proprietate",
+            "view_pipeline": "Pipeline",
+            "view_list": "Listă",
+            "search_placeholder": "📍 Căutare după zonă sau stradă...",
+            "stats_total": "Total",
+            "stats_active": "Active",
+            "stats_pipeline": "Pipeline",
+            "stats_value": "Valoare",
+            "tab_active": "De Vânzare",
+            "tab_pipeline": "Pipeline",
+            "tab_sold": "Vândute",
+            "tab_all": "Toate",
+            "empty_loading": "Se încarcă...",
+            "empty_title": "Nu s-au găsit proprietăți.",
+            "toast_search_success": "Căutare finalizată",
+            "toast_search_desc": "proprietăți găsite în zonă.",
+            "toast_error": "Eroare la căutare.",
+            "status_valuation": "Evaluare",
+            "status_listing": "Pregătire",
+            "status_active": "De Vânzare",
+            "status_offer": "Ofertă",
+            "status_reserved": "Rezervată",
+            "status_sold": "Vândută",
+            "total_value": "Valoare Totală",
+            "actions": "Acțiuni",
+            "view_details": "Vezi detalii",
+            "move_to": "Mută la...",
+            "no_properties": "Fără proprietăți",
+            "detail": {
+                "not_found": "Proprietatea nu a fost găsită",
+                "tabs": {
+                    "management": "Gestiune",
+                    "matching": "Potrivire",
+                    "activity": "Activitate",
+                    "report": "Raport"
+                },
+                "sections": {
+                    "valuation": "Evaluare IA",
+                    "tools": "Unelte IA",
+                    "offers": "Oferte",
+                    "closing": "Închidere",
+                    "matching": "Cumpărători",
+                    "activity": "Activitate Recentă",
+                    "report": "Raport Feedback",
+                    "technical": "Detalii Tehnice",
+                    "photos": "Poze"
+                },
+                "actions": {
+                    "back": "Înapoi",
+                    "edit": "Editează"
+                },
+                "status": {
+                    "reserved": "Rezervat",
+                    "sold": "Vândut",
+                    "active": "Activ"
+                }
+            }
+        },
+        "contacts": {
+            "title": "Contacte",
+            "subtitle": "Gestionează clienții și prospecții",
+            "new_contact": "Contact Nou",
+            "search_placeholder": "Caută după nume, email sau telefon...",
+            "tab_all": "Toți",
+            "tab_buyers": "Cumpărători",
+            "tab_owners": "Proprietari",
+            "tab_sellers": "Vânzători",
+            "empty_title": "Nu sau găsit contacte",
+            "empty_desc": "Niciun contact nu corespunde căutării.",
+            "clear_filters": "Șterge filtre",
+            "role_buyer": "Cumpărător",
+            "role_seller": "Vânzător",
+            "role_owner": "Proprietar",
+            "actions": "Acțiuni",
+            "view_sheet": "Vezi fișă",
+            "call": "Sună",
+            "whatsapp": "WhatsApp",
+            "detail": {
+                "tabs": {
+                    "overview": "Overview",
+                    "matching": "Matching",
+                    "activity": "History"
+                },
+                "overview": {
+                    "properties_portfolio": "Property Portfolio",
+                    "manage_properties_desc": "Manage properties in the main section.",
+                    "offers": "Offers",
+                    "recent_activity": "Recent Activity",
+                    "view_all": "View all",
+                    "register_first_followup": "Log first follow-up"
+                },
+                "matching": {
+                    "compatible_properties": "Compatible Properties"
+                },
+                "activity": {
+                    "register_new_interaction": "Log New Interaction",
+                    "open": "Open",
+                    "cancel": "Cancel"
+                }
+            }
+        },
+        "settings": {
+            "title": "Setări",
+            "subtitle": "Gestionează contul, echipa și preferințele",
+            "tabs": {
+                "general": "General",
+                "integrations": "Integrări",
+                "team": "Echipă",
+                "billing": "Plan",
+                "email": "Email"
+            },
+            "currency": {
+                "title": "Monedă",
+                "description": "Selectează moneda pentru afișarea prețurilor și analizelor.",
+                "placeholder": "Selectează moneda"
+            },
+            "session": {
+                "title": "Sesiune",
+                "logout": "Deconectare",
+                "logout_desc": "La deconectare vei fi redirecționat către pagina principală"
+            },
+            "profile": {
+                "title": "Profilul Meu",
+                "first_name": "Prenume",
+                "last_name": "Nume",
+                "user_id": "ID Utilizator",
+                "id_hint": "Util pentru suport"
+            },
+            "agency": {
+                "title": "Identitate Agenție",
+                "description": "Aceste detalii vor apărea în rapoarte și fișele proprietăților.",
+                "edit_title": "Editează Nume Agenție",
+                "edit_desc": "Schimbă numele agenției tale. Această modificare va fi vizibilă pentru toți membrii echipei.",
+                "name_label": "Nume Agenție",
+                "name_placeholder": "Ex: Real Estate ABC",
+                "name": "Nume Comercial",
+                "phone": "Telefon Birou",
+                "email": "Email Contact",
+                "address": "Adresă Fizică",
+                "website": "Website",
+                "save": "Salvează Modificări",
+                "saving": "Se salvează...",
+                "success": "Agenție actualizată",
+                "error": "Eroare neașteptată"
+            },
+            "subscription": {
+                "manage": "Gestionează Abonament",
+                "portal_error": "Eroare conectare la portal",
+                "plan_free": "Plan Gratuit",
+                "plan_pro": "Plan Pro",
+                "plan_business": "Plan Business",
+                "plan_agency": "Plan Agency",
+                "status_active": "Activ",
+                "status_pending": "În așteptare",
+                "status_inactive": "Inactiv",
+                "contacts": "Contacte",
+                "properties": "Proprietăți",
+                "licenses": "Licențe Echipă",
+                "upgrade": "Upgrade Plan",
+                "change_plan": "Schimbă Plan"
+            },
+            "feed": {
+                "title": "Distribuție Portaluri (XML)",
+                "description": "Sincronizează automat proprietățile cu Idealista, Fotocasa, Kyero și altele.",
+                "instructions": "Copiază acest link și lipește-l în secțiunea 'Import' a portalului tău imobiliar.",
+                "copied": "Link copiat"
+            },
+            "calendar": {
+                "title": "Sincronizare Mobilă",
+                "description": "Vezi vizitele Casalvi pe iPhone, Google Calendar sau Outlook.",
+                "copied": "Link copiat",
+                "ios_instructions": "iPhone / iPad > Setări > Calendar > Conturi > Adaugă Cont > Altele > Adaugă Calendar Abonat.",
+                "google_instructions": "Google Calendar > '+' lângă Alte calendare > Din URL."
+            },
+            "notifications": {
+                "title": "Notificări Clienți",
+                "description": "Vrei să trimiți automat emailuri de confirmare la programarea unei vizite?",
+                "auto_label": "Automat",
+                "auto_desc": "Un email va fi trimis mereu clientului, fără a te întreba.",
+                "manual_label": "Manual (Recomandat)",
+                "manual_desc": "Îți vom arăta o casetă 'Trimite Email' la crearea programării.",
+                "off_label": "Dezactivat",
+                "off_desc": "Emailurile nu vor fi trimise niciodată.",
+                "save": "Salvează Configurația"
+            },
+            "email": {
+                "tab_smtp": "Trimitere (SMTP)",
+                "tab_imap": "Primire (IMAP)",
+                "tab_general": "Semnătură & General",
+                "config_title_smtp": "Configurare Trimitere (SMTP)",
+                "config_desc_smtp": "Pentru a trimite emailuri în masă și răspunsuri din CRM.",
+                "config_title_imap": "Configurare Primire (IMAP)",
+                "config_desc_imap": "Pentru a citi răspunsurile și a afișa inbox-ul.",
+                "server": "Server (Host)",
+                "port": "Port",
+                "user": "Utilizator",
+                "password": "Parola",
+                "test_connection": "Testează Conexiune",
+                "save": "Salvează Configurația",
+                "quick_setup": "Configurare Rapidă",
+                "password_help": "Ce parolă să folosesc?"
+            },
+            "team": {
+                "invite_dialog": {
+                    "title": "Invită Membru Nou",
+                    "description": "Generează un cod de invitație pentru a-l partaja cu un nou membru al echipei.",
+                    "email_label": "Email membru nou",
+                    "cancel": "Anulează",
+                    "generate": "Generează Cod",
+                    "generating": "Se generează...",
+                    "success_title": "Cod invitație generat",
+                    "success_desc": "Partajează acest cod cu utilizatorul pentru a se alătura agenției tale.",
+                    "copy_code": "Cod copiat",
+                    "close": "Închide"
+                },
+                "title": "Echipa Ta",
+                "subtitle": "Gestionează accesul agenților tăi la CRM.",
+                "active_members": "Membri Activi",
+                "pending_invites": "Invitații în Așteptare",
+                "invite_button": "Invită Membru",
+                "role_owner": "Proprietar",
+                "role_admin": "Admin",
+                "role_manager": "Manager",
+                "role_agent": "Agent",
+                "delete_dialog": {
+                    "title": "Elimină membru?",
+                    "description": "Această acțiune este ireversibilă.",
+                    "confirm": "Elimină",
+                    "cancel": "Anulează"
+                }
+            }
+        }
+    },
+    "landing": {
+        "navbar": {
+            "login": "Autentificare",
+            "signup": "Înregistrare",
+            "features": "Funcționalități",
+            "pricing": "Prețuri"
+        },
+        "hero": {
+            "badge": "🚀 CRM Imobiliar al Viitorului",
+            "title": "Închide mai multe vânzări cu Inteligența Artificială",
+            "subtitle": "Casalvi AI CRM este platforma all-in-one pentru agenții moderni.",
+            "cta_primary": "Începe Gratuit",
+            "cta_secondary": "Vezi Demo",
+            "productivity_label": "Productivitate"
+        },
+        "features": {
+            "voice_title": "Asistent Vocal IA",
+            "voice_desc": "Dictează note și creează contacte vocal.",
+            "farming_title": "Smart Farming",
+            "farming_desc": "Identifică oportunități automat.",
+            "matching_title": "Potrivire Predictivă",
+            "matching_desc": "Conectează cumpărătorii cu proprietățile perfecte.",
+            "legal_title": "Scanner Legal IA",
+            "legal_desc": "Analizează contracte în secunde.",
+            "valuation_title": "Evaluare Automată",
+            "valuation_desc": "Evaluări precise bazate pe date de piață.",
+            "analytics_title": "Analize Predictive",
+            "analytics_desc": "Vizualizează tendințe și prognoze.",
+            "marketing_title": "Autonomous Marketing",
+            "marketing_desc": "From SEO descriptions to segmented email campaigns. AI writes copy that sells and designs strategies to reactivate your database.",
+            "badge": "Next Generation Tools",
+            "title_1": "Powered by",
+            "title_2": "Artificial Intelligence",
+            "description": "It's not just software, it's your competitive advantage."
+        },
+        "pricing": {
+            "title": "Planuri pentru fiecare etapă",
+            "subtitle": "De la agenți independenți la agenții mari",
+            "starter_name": "Starter",
+            "starter_price": "Gratuit",
+            "starter_desc": "Perfect pentru început",
+            "pro_name": "Pro",
+            "pro_price": "€49/lună",
+            "pro_desc": "Pentru profesioniști",
+            "business_name": "Business",
+            "business_price": "€99/lună",
+            "business_desc": "Pentru echipe",
+            "agency_name": "Agency",
+            "agency_price": "€199/lună",
+            "agency_desc": "Pentru agenții",
+            "cta_button": "Începe",
+            "feature_contacts": "contacte",
+            "feature_properties": "proprietăți",
+            "feature_ai_voice": "Voce IA",
+            "feature_analytics": "Analize",
+            "feature_team": "Echipă",
+            "feature_support": "Suport",
+            "plan_features": {
+                "starter_props": "Până la 2 proprietăți",
+                "starter_contacts": "Până la 20 contacte",
+                "starter_crm": "CRM de bază",
+                "starter_mobile": "Aplicație mobilă",
+                "starter_email": "Suport prin email",
+                "pro_props": "Proprietăți nelimitate",
+                "pro_contacts": "Contacte nelimitate",
+                "pro_voice": "🎙️ Dictare vocală IA",
+                "pro_matching": "🧩 Matchmaker IA",
+                "pro_farming": "🌾 Farming",
+                "pro_writer": "✍️ Scriere IA",
+                "pro_integrations": "Integrări avansate",
+                "pro_priority": "Suport prioritar",
+                "business_users": "Până la 3 agenți",
+                "business_dashboard": "Tablou de bord echipă",
+                "business_leads": "Gestionare lead-uri partajată",
+                "agency_users": "Până la 5 utilizatori",
+                "agency_analytics": "Analize avansate"
+            }
+        },
+        "footer": {
+            "product": "Produs",
+            "features": "Funcționalități",
+            "pricing": "Prețuri",
+            "docs": "Documentație",
+            "company": "Companie",
+            "about": "Despre noi",
+            "blog": "Blog",
+            "contact": "Contact",
+            "legal": "Legal",
+            "privacy": "Confidențialitate",
+            "terms": "Termeni",
+            "copyright": "© 2025 Casalvi AI. Toate drepturile rezervate.",
+            "tagline": "The Real Estate CRM that thinks for you.",
+            "demo": "Demo",
+            "integrations": "Integrations",
+            "careers": "Careers",
+            "cookies": "Cookies",
+            "security": "Security"
+        },
+        "cta": {
+            "title": "Gata să transformi afacerea?",
+            "subtitle": "Alătură-te miilor de agenți.",
+            "button": "Începe Gratuit"
+        },
+        "blog": {
+            "title": "Blog & News",
+            "subtitle": "Insights on the future of real estate.",
+            "read_more": "Read more",
+            "back_to_blog": "Back to Blog",
+            "view_more_articles": "View more articles"
+        },
+        "contact": {
+            "title": "Let's Talk",
+            "subtitle": "Questions about Casalvi? Our team is here to help you digitize your real estate business.",
+            "info": {
+                "title": "Contact Information",
+                "email_label": "Email",
+                "email_note": "Response in less than 24h",
+                "phone_label": "Phone",
+                "phone_note": "Monday to Friday, 9h - 18h",
+                "office_label": "Office",
+                "office_note": "Headquarters",
+                "address": "Madrid, Spain"
+            },
+            "form": {
+                "success_title": "Message Sent!",
+                "success_desc": "Thanks for contacting us. We received your message and will respond shortly.",
+                "send_another": "Send another message",
+                "first_name": "First Name",
+                "last_name": "Last Name",
+                "email": "Email",
+                "phone": "Phone (Optional)",
+                "message": "Message",
+                "message_placeholder": "How can we help?",
+                "submit": "Send Message",
+                "sending": "Sending...",
+                "errors": {
+                    "required": "This field is required"
+                }
+            }
+        },
+        "about": {
+            "hero": {
+                "title": "From Agent to Agent.",
+                "subtitle": "Casalvi wasn't born in a boardroom. It was born on the streets of Madrid, between viewings, calls, and paperwork."
+            },
+            "origin": {
+                "greeting_1": "Hi, I'm ",
+                "greeting_2": ", founder of Casalvi.",
+                "p1": "During my time as a real estate agent in Madrid, I experienced the chaos of our profession firsthand. I know what it's like to waste hours keying in data, managing hundreds of contacts, and buried in bureaucracy instead of doing what matters: selling.",
+                "p2": "I realized the modern agent needs to focus on who really needs to buy or sell, not on manual work."
+            },
+            "vision": {
+                "title": "More than a CRM, your silent partner.",
+                "subtitle": "We created Casalvi to give you superpowers. A tool that works while you sleep."
+            },
+            "benefits": {
+                "matchmaker": {
+                    "title": "Smart Matchmaker",
+                    "desc": "Tells you the best buyer without waiting weeks for a financial study."
+                },
+                "market": {
+                    "title": "Market Prediction",
+                    "desc": "Detects which property will sell soon in your area before anyone else."
+                },
+                "viability": {
+                    "title": "Feasibility Analysis",
+                    "desc": "An AI analyst that confirms if a deal is viable before you waste time."
+                }
+            },
+            "closing": {
+                "quote": "\"Reclaim your time. Let AI handle the rest.\"",
+                "role": "Founder"
+            }
+        },
+        "auth": {
+            "login_title": "Bine ai revenit",
+            "signup_title": "Creează cont",
+            "email_label": "Email",
+            "password_label": "Parolă",
+            "name_label": "Nume",
+            "login_button": "Autentificare",
+            "signup_button": "Înregistrare",
+            "or_text": "sau",
+            "google_button": "Google",
+            "switch_to_signup": "Fără cont?",
+            "switch_to_login": "Ai deja cont?",
+            "signup_desc": "Join agents already automating their work with AI.",
+            "login_desc": "Access your CRM and manage properties in seconds."
+        }
+    },
+    "metadata": {
+        "title_default": "Casalvi | AI for your CRM",
+        "title_template": "%s | Casalvi AI",
+        "description": "Power your real estate business with Casalvi. The first AI CRM that automates lead capture, predicts closings, and is voice-controlled. Try it free today.",
+        "keywords": "real estate crm, artificial intelligence, real estate, proptech, automation, real estate agents, ai real estate",
+        "og_title": "Casalvi | AI for your CRM",
+        "og_description": "Manage your real estate business by voice. The first platform combining CRM, Voice Assistant, and Predictive Matching."
+    },
+    "legal": {
+        "privacy": {
+            "title": "Politica de Confidențialitate",
+            "last_updated": "Ultima actualizare: 24 Decembrie 2025",
+            "controller": {
+                "title": "1. Responsabil pentru Prelucrare",
+                "content": "{name} (în continuare \"Casalvi CRM\"), cu CIF {nif}, este responsabilul pentru prelucrarea datelor dvs. personale."
+            },
+            "collected_data": {
+                "title": "2. Ce date colectăm",
+                "account": "<strong>Date de Cont:</strong> Nume, prenume, email și parolă (criptată).",
+                "billing": "<strong>Date de Facturare:</strong> Gestionate extern de Stripe (noi nu stocăm carduri complete).",
+                "usage": "<strong>Date de Utilizare:</strong> Informații despre cum interacționați cu platforma pentru a îmbunătăți serviciul.",
+                "user_content": "<strong>Conținutul Utilizatorului:</strong> Proprietăți și contacte pe care le încărcați pentru a le gestiona (acționăm ca Împuterniciți pentru Prelucrare)."
+            },
+            "purpose": {
+                "title": "3. Scopul Prelucrării",
+                "intro": "Prelucrăm datele dvs. pentru:",
+                "service": "A furniza serviciul de CRM imobiliar contractat.",
+                "billing": "A procesa plăți și facturare.",
+                "notifications": "A trimite notificări importante despre contul dvs. sau actualizări ale serviciului.",
+                "ai": "A oferi funcționalități de Inteligență Artificială."
+            },
+            "third_parties": {
+                "title": "4. Împuterniciți pentru Prelucrare (Terți)",
+                "intro": "Pentru a furniza serviciul, partajăm date strict necesare cu următorii furnizori tehnologici, toți respectând standarde de securitate:",
+                "table_provider": "Furnizor",
+                "table_function": "Funcție",
+                "table_location": "Locație / Garanții",
+                "providers": {
+                    "supabase": {
+                        "function": "Bază de date și Autentificare",
+                        "location": "AWS (UE/Irlanda) - GDPR"
+                    },
+                    "stripe": {
+                        "function": "Procesare Plăți",
+                        "location": "SUA (Data Privacy Framework)"
+                    },
+                    "ai_models": {
+                        "name": "OpenAI / DeepSeek",
+                        "function": "Modele de Inteligență Artificială",
+                        "location": "SUA/Global. Datele sunt procesate sub acorduri de confidențialitate și NU sunt utilizate pentru antrenarea modelelor publice."
+                    },
+                    "vercel": {
+                        "function": "Găzduire și Infrastructură",
+                        "location": "Global (CDN) - conformitate GDPR"
+                    }
+                }
+            },
+            "rights": {
+                "title": "5. Drepturile Dumneavoastră",
+                "content": "Conform GDPR, aveți dreptul de a accesa, rectifica și șterge datele dumneavoastră, precum și de a limita sau vă opune procesării acestora și de a solicita portabilitatea datelor. Puteți exercita aceste drepturi scriind la {email}."
+            },
+            "security": {
+                "title": "6. Securitate",
+                "content": "Aplicăm măsuri tehnice (criptare SSL, baze de date securizate, control acces) pentru a vă proteja informațiile împotriva accesului neautorizat."
+            }
+        },
+        "terms": {
+            "title": "Termeni și Condiții de Utilizare",
+            "last_updated": "Ultima actualizare: 24 Decembrie 2025",
+            "info_legal": {
+                "title": "1. Informații Legale și Acceptare",
+                "content": "Acești Termeni și Condiții reglementează utilizarea serviciului <strong>Casalvi CRM</strong>, proprietatea <strong>{name}</strong>, cu CIF <strong>{nif}</strong> (în continuare, \"Prestatorul\").",
+                "acceptance": "Prin accesarea și utilizarea platformei noastre, acceptați acești termeni în întregime. Dacă nu sunteți de acord, vă rugăm să nu utilizați serviciul."
+            },
+            "service_desc": {
+                "title": "2. Descrierea Serviciului și Utilizarea IA",
+                "content": "Casalvi CRM este o unealtă de gestionare pentru agenții imobiliari care utilizează Inteligență Artificială (IA) pentru funcționalități precum redactarea textelor, transcrierea vocală și analiza datelor.",
+                "warning": {
+                    "title": "⚠️ Avertisment Important despre IA",
+                    "content": "Sistemele de Inteligență Artificială pot genera informații incorecte, inexacte sau \"halucinații\". <strong>Dumneavoastră sunteți singurul responsabil pentru revizuirea, verificarea și aprobarea oricărui conținut generat de platformă</strong> înainte de a-l publica sau trimite clienților. Furnizorul nu este responsabil pentru erori în descrierile proprietăților, transcrieri sau analize generate automat."
+                }
+            },
+            "ip": {
+                "title": "3. Proprietate Intelectuală și Date",
+                "platform": {
+                    "title": "3.1. Proprietatea Platformei",
+                    "content": "Software-ul, designul, codul sursă și algoritmii Casalvi CRM sunt proprietatea exclusivă a Furnizorului sau a licențiatorilor săi."
+                },
+                "user_data": {
+                    "title": "3.2. Datele Utilizatorului",
+                    "content": "<strong>Dumneavoastră păstrați proprietatea totală asupra datelor pe care le încărcați pe platformă</strong> (ex: fișe proprietăți, date clienți, note). Noi acționăm doar ca operatori de prelucrare pentru a vă presta serviciul. Nu vom vinde sau partaja datele clienților dumneavoastră cu terți în scopuri publicitare."
+                }
+            },
+            "accounts": {
+                "title": "4. Conturi și Responsabilitate",
+                "content": "Dumneavoastră sunteți responsabil pentru menținerea confidențialității parolei. Acceptați responsabilitatea pentru toate activitățile care au loc sub contul dumneavoastră. Utilizarea serviciului este rezervată exclusiv profesioniștilor și companiilor (B2B)."
+            },
+            "billing": {
+                "title": "5. Abonamente, Plăți și Anulări",
+                "intro": "Serviciile plătite (Planurile Pro, Business și Agency) se achită prin abonament recurent (lunar sau anual).",
+                "secure_payment": "<strong>Plata Securizată:</strong> Toate plățile sunt procesate prin Stripe. Casalvi CRM nu stochează datele dumneavoastră bancare complete.",
+                "renewal": "<strong>Reînnoire Automată:</strong> Abonamentul dumneavoastră se va reînnoi automat la sfârșitul fiecărui ciclu, cu excepția cazului în care îl anulați.",
+                "cancellation": "<strong>Politica de Anulare:</strong> Puteți anula abonamentul în orice moment din panoul de control. **Anularea va intra în vigoare la sfârșitul ciclului de facturare curent**. Veți păstra accesul la funcționalitățile plătite până la acea dată.",
+                "refunds": "<strong>Fără Rambursări:</strong> Nu se efectuează rambursări totale sau parțiale pentru perioadele de serviciu neutilizate, cu excepția cazului în care legea aplicabilă prevede altfel.",
+                "changes": "<strong>Schimbări de Plan:</strong> La trecerea la un plan superior, taxa se va ajusta imediat sau în ciclul următor. La trecerea la un plan inferior, schimbarea se va aplica la sfârșitul ciclului curent."
+            },
+            "liability": {
+                "title": "6. Limitarea Răspunderii",
+                "content": "În măsura maximă permisă de legea aplicabilă în Spania, Furnizorul nu va fi responsabil pentru daune indirecte, incidentale sau consecvente, inclusiv pierderi de profit sau date, derivate din utilizarea serviciului."
+            },
+            "law": {
+                "title": "7. Legea Aplicabilă și Competența",
+                "content": "Aceste termeni se supun legislației spaniole. Pentru orice controversă, ambele părți se supun instanțelor de la domiciliul Furnizorului, cu excepția cazului în care legea prevede obligatoriu altfel."
+            },
+            "footer_contact": "Întrebări legale? Contactați-ne la {email}"
+        },
+        "cookies": {
+            "title": "Politica de Cookie-uri",
+            "last_updated": "Ultima actualizare: 24 Decembrie 2025",
+            "what_are": {
+                "title": "1. Ce sunt cookie-urile?",
+                "content": "Cookie-urile sunt fișiere text mici pe care site-urile web le stochează în browser-ul dvs. pentru a reține informații despre vizita dvs."
+            },
+            "used_cookies": {
+                "title": "2. Cookie-uri pe care le utilizăm",
+                "intro": "În Casalvi CRM utilizăm <strong>exclusiv cookie-uri tehnice și esențiale</strong> pentru funcționarea serviciului. Nu utilizăm cookie-uri publicitare sau de urmărire invazivă de la terți.",
+                "essential_title": "Cookie-uri Esențiale (Necesare)",
+                "essential_desc": "Aceste cookie-uri sunt indispensabile pentru a putea naviga și utiliza funcțiile de bază (cum ar fi autentificarea).",
+                "table": {
+                    "provider": "Nume / Furnizor",
+                    "purpose": "Scop",
+                    "duration": "Durată",
+                    "supabase": {
+                        "name": "sb-*-auth-token (Supabase)",
+                        "purpose": "Menține sesiunea dvs. de utilizator autentificată în mod securizat.",
+                        "duration": "Persistentă (pe durata sesiunii)"
+                    },
+                    "stripe": {
+                        "name": "__stripe_mid / __stripe_sid (Stripe)",
+                        "purpose": "Detectarea fraudelor și securitatea plăților.",
+                        "duration": "1 an / 30 de minute"
+                    }
+                }
+            },
+            "management": {
+                "title": "3. Gestionarea cookie-urilor",
+                "content": "Deoarece utilizăm doar cookie-uri esențiale pentru a furniza serviciul solicitat, instalarea lor nu necesită consimțământ prealabil conform reglementărilor în vigoare (art. 22.2 LSSI). Cu toate acestea, le puteți bloca din setările browser-ului dvs., deși acest lucru vă va împiedica să vă autentificați în platformă."
+            }
+        }
+    }
+}

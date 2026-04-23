@@ -1,0 +1,742 @@
+{
+    "common": {
+        "loading": "加载中...",
+        "save": "保存",
+        "cancel": "取消",
+        "confirm": "确认",
+        "error": "错误",
+        "success": "成功"
+    },
+    "voice": {
+        "ready": "准备录音",
+        "recording": "录音中...",
+        "processing": "处理中...",
+        "click_start": "点击开始",
+        "click_stop": "点击停止",
+        "thinking": "AI正在思考",
+        "permission_denied": "权限被拒绝",
+        "upgrade_title": "高级功能已锁定",
+        "upgrade_desc": "AI语音听写是Pro计划的独家功能。",
+        "mic_permission_title": "Microphone permission required",
+        "mic_permission_desc": "Please allow microphone access in your browser",
+        "mic_error_title": "Microphone error",
+        "mic_error_desc": "Check permissions.",
+        "not_understood": "I didn't understand you",
+        "success_exclamation": "Done!",
+        "processed": "Command processed",
+        "completed": "Action completed",
+        "cancelled": "Action cancelled",
+        "incomplete_selection": "Incomplete selection",
+        "tell_me_name": "Tell me the contact name.",
+        "who_referring": "Who are you referring to?",
+        "found_similar": "similar contacts",
+        "unauthorized": "User not authenticated",
+        "actions_detected": "actions detected",
+        "confirm_actions": "Confirm actions",
+        "create": "Create",
+        "update": "Update",
+        "confirm_button_suffix": "actions"
+    },
+    "ai_chat": {
+        "title": "Casalvi Genius",
+        "role_support": "Support & Assistant",
+        "role_sales": "Sales Consultant",
+        "greeting": "👋 Hello! I'm your personal assistant.",
+        "placeholder_auth": "Ask me how to create contacts, use the map, or upgrade your plan.",
+        "placeholder_guest": "Would you like to discover how Casalvi can revolutionize your real estate business?",
+        "recommendation": "Recommendation",
+        "upgrade_plan": "Upgrade Plan",
+        "go_to_section": "Go to section",
+        "input_placeholder": "Type your question...",
+        "disclaimer": "Casalvi Genius may make mistakes."
+    },
+    "valuation": {
+        "title": "AI估值",
+        "estimated_price": "预估价格",
+        "confidence": "置信度"
+    },
+    "nav": {
+        "dashboard": "仪表板",
+        "contacts": "联系人",
+        "properties": "房产",
+        "settings": "设置"
+    },
+    "landing": {
+        "navbar": {
+            "login": "登录",
+            "signup": "注册",
+            "features": "功能",
+            "pricing": "价格"
+        },
+        "hero": {
+            "badge": "🚀 未来的房地产CRM",
+            "title": "用人工智能达成更多销售",
+            "subtitle": "Casalvi AI CRM是现代房地产经纪人需要的一体化平台。用AI的力量管理房产、客户和销售。",
+            "cta_primary": "免费开始",
+            "cta_secondary": "观看演示",
+            "productivity_label": "生产力"
+        },
+        "features": {
+            "voice_title": "AI语音助手",
+            "voice_desc": "通过说话来记录笔记、创建联系人和记录活动。您的个人助手理解上下文。",
+            "farming_title": "智能开发",
+            "farming_desc": "自动识别机会。AI分析您的投资组合并建议战略行动。",
+            "matching_title": "预测匹配",
+            "matching_desc": "使用先进的兼容性算法将买家与完美的房产连接起来。",
+            "legal_title": "AI法律扫描仪",
+            "legal_desc": "用人工智能在几秒钟内分析定金合同并检测危险条款。",
+            "valuation_title": "自动估值",
+            "valuation_desc": "根据市场数据和房产特征即时获得准确的估值。",
+            "analytics_title": "预测分析",
+            "analytics_desc": "通过智能仪表板可视化趋势、预测成交并优化您的策略。",
+            "marketing_title": "Autonomous Marketing",
+            "marketing_desc": "From SEO descriptions to segmented email campaigns. AI writes copy that sells and designs strategies to reactivate your database.",
+            "badge": "Next Generation Tools",
+            "title_1": "Powered by",
+            "title_2": "Artificial Intelligence",
+            "description": "It's not just software, it's your competitive advantage."
+        },
+        "pricing": {
+            "title": "适合每个阶段的计划",
+            "subtitle": "从独立经纪人到完整的代理机构",
+            "starter_name": "Starter",
+            "starter_price": "免费",
+            "starter_desc": "完美开始",
+            "pro_name": "Pro",
+            "pro_price": "¥399/月",
+            "pro_desc": "专业经纪人",
+            "business_name": "Business",
+            "business_price": "¥799/月",
+            "business_desc": "小型团队",
+            "agency_name": "Agency",
+            "agency_price": "¥1599/月",
+            "agency_desc": "完整代理机构",
+            "cta_button": "立即开始",
+            "feature_contacts": "联系人",
+            "feature_properties": "房产",
+            "feature_ai_voice": "AI语音",
+            "feature_analytics": "分析",
+            "feature_team": "团队管理",
+            "feature_support": "高级支持",
+            "plan_features": {
+                "starter_props": "最多2个房产",
+                "starter_contacts": "最多20个联系人",
+                "starter_crm": "基础CRM",
+                "starter_mobile": "移动应用",
+                "starter_email": "邮件支持",
+                "pro_props": "无限房产",
+                "pro_contacts": "无限联系人",
+                "pro_voice": "🎙️ AI语音听写",
+                "pro_matching": "🧩 AI配对",
+                "pro_farming": "🌾 Farming",
+                "pro_writer": "✍️ AI写作",
+                "pro_integrations": "高级集成",
+                "pro_priority": "优先支持",
+                "business_users": "最多3个经纪人",
+                "business_dashboard": "团队仪表板",
+                "business_leads": "共享潜在客户管理",
+                "agency_users": "最多5个用户",
+                "agency_analytics": "高级分析"
+            }
+        },
+        "footer": {
+            "product": "产品",
+            "features": "功能",
+            "pricing": "价格",
+            "docs": "文档",
+            "company": "公司",
+            "about": "关于我们",
+            "blog": "博客",
+            "contact": "联系",
+            "legal": "法律",
+            "privacy": "隐私",
+            "terms": "条款",
+            "copyright": "© 2025 Casalvi AI. 保留所有权利。",
+            "tagline": "The Real Estate CRM that thinks for you. Powered by Predictive AI.",
+            "demo": "Demo",
+            "integrations": "Integrations",
+            "careers": "Careers",
+            "cookies": "Cookies",
+            "security": "Security"
+        },
+        "cta": {
+            "title": "准备好改变您的业务了吗？",
+            "subtitle": "加入数百名已经用AI达成更多销售的经纪人",
+            "button": "免费开始"
+        },
+        "blog": {
+            "title": "Blog & News",
+            "subtitle": "Insights on the future of real estate.",
+            "read_more": "Read more",
+            "back_to_blog": "Back to Blog",
+            "view_more_articles": "View more articles"
+        },
+        "contact": {
+            "title": "Let's Talk",
+            "subtitle": "Questions about Casalvi? Our team is here to help you digitize your real estate business.",
+            "info": {
+                "title": "Contact Information",
+                "email_label": "Email",
+                "email_note": "Response in less than 24h",
+                "phone_label": "Phone",
+                "phone_note": "Monday to Friday, 9h - 18h",
+                "office_label": "Office",
+                "office_note": "Headquarters",
+                "address": "Madrid, Spain"
+            },
+            "form": {
+                "success_title": "Message Sent!",
+                "success_desc": "Thanks for contacting us. We received your message and will respond shortly.",
+                "send_another": "Send another message",
+                "first_name": "First Name",
+                "last_name": "Last Name",
+                "email": "Email",
+                "phone": "Phone (Optional)",
+                "message": "Message",
+                "message_placeholder": "How can we help?",
+                "submit": "Send Message",
+                "sending": "Sending...",
+                "errors": {
+                    "required": "This field is required"
+                }
+            }
+        },
+        "about": {
+            "hero": {
+                "title": "From Agent to Agent.",
+                "subtitle": "Casalvi wasn't born in a boardroom. It was born on the streets of Madrid, between viewings, calls, and paperwork."
+            },
+            "origin": {
+                "greeting_1": "Hi, I'm ",
+                "greeting_2": ", founder of Casalvi.",
+                "p1": "During my time as a real estate agent in Madrid, I experienced the chaos of our profession firsthand. I know what it's like to waste hours keying in data, managing hundreds of contacts, and buried in bureaucracy instead of doing what matters: selling.",
+                "p2": "I realized the modern agent needs to focus on who really needs to buy or sell, not on manual work."
+            },
+            "vision": {
+                "title": "More than a CRM, your silent partner.",
+                "subtitle": "We created Casalvi to give you superpowers. A tool that works while you sleep."
+            },
+            "benefits": {
+                "matchmaker": {
+                    "title": "Smart Matchmaker",
+                    "desc": "Tells you the best buyer without waiting weeks for a financial study."
+                },
+                "market": {
+                    "title": "Market Prediction",
+                    "desc": "Detects which property will sell soon in your area before anyone else."
+                },
+                "viability": {
+                    "title": "Feasibility Analysis",
+                    "desc": "An AI analyst that confirms if a deal is viable before you waste time."
+                }
+            },
+            "closing": {
+                "quote": "\"Reclaim your time. Let AI handle the rest.\"",
+                "role": "Founder"
+            }
+        },
+        "auth": {
+            "login_title": "欢迎回来",
+            "signup_title": "创建您的账户",
+            "email_label": "电子邮件",
+            "password_label": "密码",
+            "name_label": "全名",
+            "login_button": "登录",
+            "signup_button": "注册",
+            "or_text": "或继续使用",
+            "google_button": "使用Google继续",
+            "switch_to_signup": "没有账户？注册",
+            "switch_to_login": "已有账户？登录",
+            "signup_desc": "Join agents already automating their work with AI.",
+            "login_desc": "Access your CRM and manage properties in seconds."
+        }
+    },
+    "dashboard": {
+        "sidebar": {
+            "dashboard": "仪表板",
+            "contacts": "联系人",
+            "properties": "房产",
+            "leads": "线索",
+            "calendar": "日历",
+            "voice_ai": "AI语音",
+            "settings": "设置",
+            "logout": "退出登录",
+            "profile": "个人资料",
+            "inbox": "收件箱",
+            "analytics": "分析",
+            "map": "农耕地图",
+            "tools": "工具",
+            "dashboard_subtitle": "您的活动和机会概览",
+            "expand": "展开",
+            "collapse": "折叠",
+            "voice_ai_subtitle": "AI助手",
+            "agent_role": "代理人",
+            "theme": "主题"
+        },
+        "quick_actions": {
+            "title": "下一步",
+            "subtitle": "有新联系人或房产？",
+            "add_contact": "+ 联系人",
+            "add_property": "+ 房产"
+        },
+        "inbox": {
+            "title": "消息",
+            "tabs": {
+                "inbox": "收件箱",
+                "sent": "已发送"
+            },
+            "empty": "文件夹为空",
+            "to": "收件人：",
+            "from": "发件人：",
+            "crm_detected": "检测到 CRM 客户",
+            "back": "返回",
+            "placeholder": "在此处编写回复...",
+            "generate_ai": "使用 AI 生成",
+            "context_active": "CRM 上下文激活：",
+            "context_external": "回复外部",
+            "send": "发送回复",
+            "select": "选择一封邮件阅读",
+            "generated": "✨ 回复已生成",
+            "check": "发送前请检查。",
+            "sent_success": "已发送",
+            "sent_desc": "回复发送成功。"
+        },
+        "stats": {
+            "total_contacts": "总联系人",
+            "active_properties": "在售房产",
+            "portfolio_value": "投资组合价值"
+        },
+        "agenda": {
+            "title": "今日日程",
+            "subtitle": "查看您的月度计划并管理约会",
+            "no_events": "今天没有活动",
+            "view_all": "查看全部"
+        },
+        "analytics": {
+            "title": "性能",
+            "subtitle": "分析关键指标、KPI和业务状态"
+        },
+        "map": {
+            "title": "实时运营",
+            "subtitle": "可视化团队在现场的活动和路线。"
+        },
+        "tools": {
+            "title": "数据工具",
+            "subtitle": "导入和管理代理机构的海量数据"
+        },
+        "feed": {
+            "title": "智能动态",
+            "recent_activity": "近期活动",
+            "no_opportunities": "暂无待处理机会",
+            "all_clear": "全部完成！🎉",
+            "recommended_actions": "项建议行动"
+        },
+        "welcome_modal": {
+            "title_pro": "欢迎加入专业版计划！",
+            "desc_pro": "您已解锁Casalvi AI的全部功能。享受无限内容生成和高级工具。",
+            "title_business": "欢迎加入商业版计划！",
+            "desc_business": "您的团队准备起飞。管理协作者并将业务扩展到新水平。",
+            "title_agency": "欢迎加入代理机构计划！",
+            "desc_agency": "市场领导者的终极解决方案。全面审计、高级开发和优先支持。",
+            "title_default": "欢迎来到Casalvi！",
+            "desc_default": "感谢加入房地产AI革命。",
+            "button_start": "开始销售！🚀"
+        },
+        "top_leads": {
+            "title": "今日热门线索",
+            "subtitle": "转化概率最高的机会",
+            "empty_title": "暂无热门线索",
+            "empty_desc": "开始记录活动，AI将识别您的最佳机会",
+            "stage_prospect": "潜在客户",
+            "stage_lead": "线索",
+            "stage_customer": "客户",
+            "stage_inactive": "不活跃",
+            "stage_unclassified": "未分类"
+        },
+        "properties": {
+            "title": "房产",
+            "subtitle": "房产组合和销售渠道",
+            "new_property": "新房产",
+            "view_pipeline": "渠道",
+            "view_list": "列表",
+            "search_placeholder": "📍 按区域或街道搜索...",
+            "stats_total": "总计",
+            "stats_active": "活跃",
+            "stats_pipeline": "渠道",
+            "stats_value": "价值",
+            "tab_active": "待售",
+            "tab_pipeline": "渠道",
+            "tab_sold": "已售",
+            "tab_all": "全部",
+            "empty_loading": "加载中...",
+            "empty_title": "未找到房产。",
+            "toast_search_success": "搜索完成",
+            "toast_search_desc": "该区域找到房产。",
+            "toast_error": "搜索房产时出错。",
+            "status_valuation": "估值",
+            "status_listing": "准备中",
+            "status_active": "待售",
+            "status_offer": "报价",
+            "status_reserved": "已预订",
+            "status_sold": "已售出",
+            "total_value": "总价值",
+            "actions": "操作",
+            "view_details": "查看详情",
+            "move_to": "移动到...",
+            "no_properties": "无房产",
+            "detail": {
+                "not_found": "未找到房产",
+                "tabs": {
+                    "management": "管理",
+                    "matching": "匹配",
+                    "activity": "活动",
+                    "report": "报告"
+                },
+                "sections": {
+                    "valuation": "AI估值",
+                    "tools": "AI工具",
+                    "offers": "报价与谈判",
+                    "closing": "成交阶段",
+                    "matching": "匹配买家",
+                    "activity": "最近活动",
+                    "report": "反馈报告",
+                    "technical": "技术细节",
+                    "photos": "照片"
+                },
+                "actions": {
+                    "back": "返回列表",
+                    "edit": "编辑"
+                },
+                "status": {
+                    "reserved": "已预订",
+                    "sold": "已售出",
+                    "active": "在售"
+                }
+            }
+        },
+        "contacts": {
+            "title": "联系人",
+            "subtitle": "管理您的客户和潜在客户",
+            "new_contact": "新联系人",
+            "search_placeholder": "按姓名、邮箱或电话搜索...",
+            "tab_all": "全部",
+            "tab_buyers": "买家",
+            "tab_owners": "业主",
+            "tab_sellers": "卖家",
+            "empty_title": "未找到联系人",
+            "empty_desc": "没有符合搜索条件的联系人。",
+            "clear_filters": "清除筛选",
+            "role_buyer": "买家",
+            "role_seller": "卖家",
+            "role_owner": "业主",
+            "actions": "操作",
+            "view_sheet": "查看详情",
+            "call": "呼叫",
+            "whatsapp": "WhatsApp",
+            "detail": {
+                "tabs": {
+                    "overview": "Overview",
+                    "matching": "Matching",
+                    "activity": "History"
+                },
+                "overview": {
+                    "properties_portfolio": "Property Portfolio",
+                    "manage_properties_desc": "Manage properties in the main section.",
+                    "offers": "Offers",
+                    "recent_activity": "Recent Activity",
+                    "view_all": "View all",
+                    "register_first_followup": "Log first follow-up"
+                },
+                "matching": {
+                    "compatible_properties": "Compatible Properties"
+                },
+                "activity": {
+                    "register_new_interaction": "Log New Interaction",
+                    "open": "Open",
+                    "cancel": "Cancel"
+                }
+            }
+        },
+        "settings": {
+            "title": "设置",
+            "subtitle": "管理您的账户、团队和偏好",
+            "tabs": {
+                "general": "常规",
+                "integrations": "集成",
+                "team": "团队",
+                "billing": "计划",
+                "email": "邮件"
+            },
+            "currency": {
+                "title": "货币",
+                "description": "选择用于显示价格和分析的货币。",
+                "placeholder": "选择货币"
+            },
+            "session": {
+                "title": "会话",
+                "logout": "退出登录",
+                "logout_desc": "退出时，您将被重定向到主页"
+            },
+            "profile": {
+                "title": "我的个人资料",
+                "first_name": "名字",
+                "last_name": "姓氏",
+                "user_id": "用户ID",
+                "id_hint": "用于支持"
+            },
+            "agency": {
+                "title": "代理机构身份",
+                "description": "这些详细信息将出现在您的报告和房产表上。",
+                "edit_title": "编辑代理机构名称",
+                "edit_desc": "更改您的代理机构名称。此更改将对所有团队成员可见。",
+                "name_label": "代理机构名称",
+                "name_placeholder": "例：房产ABC",
+                "name": "商业名称",
+                "phone": "办公电话",
+                "email": "联系邮箱",
+                "address": "实际地址",
+                "website": "网站",
+                "save": "保存更改",
+                "saving": "保存中...",
+                "success": "代理机构已更新",
+                "error": "意外错误"
+            },
+            "subscription": {
+                "manage": "管理订阅",
+                "portal_error": "连接到门户时出错",
+                "plan_free": "免费计划",
+                "plan_pro": "Pro计划",
+                "plan_business": "商业计划",
+                "plan_agency": "代理机构计划",
+                "status_active": "活跃",
+                "status_pending": "待处理",
+                "status_inactive": "不活跃",
+                "contacts": "联系人",
+                "properties": "房产",
+                "licenses": "团队许可证",
+                "upgrade": "升级计划",
+                "change_plan": "更改计划"
+            },
+            "feed": {
+                "title": "门户分发 (XML)",
+                "description": "自动将您的房产与Idealista、Fotocasa、Kyero等同步。",
+                "instructions": "复制此链接并将其粘贴到您的房地产门户的“导入”部分。",
+                "copied": "链接已复制"
+            },
+            "calendar": {
+                "title": "移动同步",
+                "description": "在iPhone、Google日历或Outlook上查看您的Casalvi访问。",
+                "copied": "链接已复制",
+                "ios_instructions": "iPhone / iPad > 设置 > 日历 > 账户 > 添加账户 > 其他 > 添加订阅日历。",
+                "google_instructions": "Google日历 > 其他日历旁边的 '+' > 来自URL。"
+            },
+            "notifications": {
+                "title": "客户通知",
+                "description": "您是否希望在安排访问时自动发送确认邮件？",
+                "auto_label": "自动",
+                "auto_desc": "邮件将始终发送给客户，无需询问您。",
+                "manual_label": "手动 (推荐)",
+                "manual_desc": "我们将在创建约会时向您显示“发送邮件”复选框。",
+                "off_label": "已禁用",
+                "off_desc": "永远不会发送邮件。",
+                "save": "保存配置"
+            },
+            "email": {
+                "tab_smtp": "发送 (SMTP)",
+                "tab_imap": "接收 (IMAP)",
+                "tab_general": "签名 & 常规",
+                "config_title_smtp": "发送配置 (SMTP)",
+                "config_desc_smtp": "从CRM发送群发邮件和回复。",
+                "config_title_imap": "接收配置 (IMAP)",
+                "config_desc_imap": "阅读回复并显示收件箱。",
+                "server": "服务器 (主机)",
+                "port": "端口",
+                "user": "用户",
+                "password": "密码",
+                "test_connection": "测试连接",
+                "save": "保存配置",
+                "quick_setup": "快速设置",
+                "password_help": "使用什么密码？"
+            },
+            "team": {
+                "invite_dialog": {
+                    "title": "邀请新成员",
+                    "description": "生成邀请码以与新团队成员分享。",
+                    "email_label": "新成员邮箱",
+                    "cancel": "取消",
+                    "generate": "生成代码",
+                    "generating": "生成中...",
+                    "success_title": "邀请码已生成",
+                    "success_desc": "与用户分享此代码以加入您的代理机构。",
+                    "copy_code": "代码已复制",
+                    "close": "关闭"
+                },
+                "title": "您的团队",
+                "subtitle": "管理您的经纪人对CRM的访问权限。",
+                "active_members": "活跃成员",
+                "pending_invites": "待处理邀请",
+                "invite_button": "邀请成员",
+                "role_owner": "所有者",
+                "role_admin": "管理员",
+                "role_manager": "经理",
+                "role_agent": "经纪人",
+                "delete_dialog": {
+                    "title": "移除成员？",
+                    "description": "此操作不可逆。",
+                    "confirm": "移除",
+                    "cancel": "取消"
+                }
+            }
+        }
+    },
+    "metadata": {
+        "title_default": "Casalvi | AI for your CRM",
+        "title_template": "%s | Casalvi AI",
+        "description": "Power your real estate business with Casalvi. The first AI CRM that automates lead capture, predicts closings, and is voice-controlled. Try it free today.",
+        "keywords": "real estate crm, artificial intelligence, real estate, proptech, automation, real estate agents, ai real estate",
+        "og_title": "Casalvi | AI for your CRM",
+        "og_description": "Manage your real estate business by voice. The first platform combining CRM, Voice Assistant, and Predictive Matching."
+    },
+    "legal": {
+        "privacy": {
+            "title": "隐私政策",
+            "last_updated": "最后更新：2025年12月24日",
+            "controller": {
+                "title": "1. 数据处理负责人",
+                "content": "{name}（以下简称“Casalvi CRM”），税号 {nif}，是您个人数据的处理负责人。"
+            },
+            "collected_data": {
+                "title": "2. 我们收集哪些数据",
+                "account": "<strong>账户数据：</strong> 姓名、姓氏、电子邮件和密码（加密）。",
+                "billing": "<strong>账单数据：</strong> 由 Stripe 外部管理（我们不存储完整的银行卡信息）。",
+                "usage": "<strong>使用数据：</strong> 关于您如何与平台交互的信息，以改进服务。",
+                "user_content": "<strong>用户内容：</strong> 您上传用于管理的房产和联系人（我们作为数据处理受托方）。"
+            },
+            "purpose": {
+                "title": "3. 处理目的",
+                "intro": "我们处理您的数据是为了：",
+                "service": "提供您订购的房地产CRM服务。",
+                "billing": "处理付款和账单。",
+                "notifications": "发送关于您账户或服务更新的重要通知。",
+                "ai": "提供人工智能功能。"
+            },
+            "third_parties": {
+                "title": "4. 数据处理受托方（第三方）",
+                "intro": "为了提供服务，我们与以下技术提供商共享严格必要的数据，所有这些提供商均符合安全标准：",
+                "table_provider": "提供商",
+                "table_function": "功能",
+                "table_location": "所在地 / 保障措施",
+                "providers": {
+                    "supabase": {
+                        "function": "数据库与身份验证",
+                        "location": "AWS（欧盟/爱尔兰）- GDPR"
+                    },
+                    "stripe": {
+                        "function": "支付处理",
+                        "location": "美国（数据隐私框架）"
+                    },
+                    "ai_models": {
+                        "name": "OpenAI / DeepSeek",
+                        "function": "人工智能模型",
+                        "location": "美国/全球。数据在保密协议下处理，不用于训练公共模型。"
+                    },
+                    "vercel": {
+                        "function": "托管与基础设施",
+                        "location": "全球（CDN）- GDPR合规"
+                    }
+                }
+            },
+            "rights": {
+                "title": "5. 您的权利",
+                "content": "根据GDPR，您有权访问、更正和删除您的数据，以及限制或反对其处理和数据可携性。您可以通过发送邮件至{email}行使这些权利。"
+            },
+            "security": {
+                "title": "6. 安全",
+                "content": "我们应用技术措施（SSL加密、安全数据库、访问控制）来保护您的信息免受未经授权的访问。"
+            }
+        },
+        "terms": {
+            "title": "使用条款与条件",
+            "last_updated": "最后更新：2025年12月24日",
+            "info_legal": {
+                "title": "1. 法律信息与接受",
+                "content": "本使用条款与条件规范使用<strong>Casalvi CRM</strong>服务，该服务由<strong>{name}</strong>拥有，税号<strong>{nif}</strong>（以下简称“服务提供商”）。",
+                "acceptance": "通过访问和使用我们的平台，您完全接受这些条款。如果您不同意，请勿使用本服务。"
+            },
+            "service_desc": {
+                "title": "2. 服务描述与AI使用",
+                "content": "Casalvi CRM是一款面向房地产经纪人的管理工具，利用人工智能（AI）实现文本撰写、语音转录和数据分析等功能。",
+                "warning": {
+                    "title": "⚠️ 关于人工智能的重要通知",
+                    "content": "人工智能系统可能生成不正确、不准确或“幻觉”信息。<strong>您全权负责在发布或发送给客户之前，审查、验证和批准平台生成的任何内容</strong>。服务提供商不对房产描述、转录或自动生成分析中的错误负责。"
+                }
+            },
+            "ip": {
+                "title": "3. 知识产权与数据",
+                "platform": {
+                    "title": "3.1. 平台所有权",
+                    "content": "Casalvi CRM的软件、设计、源代码和算法是服务提供商或其许可方的独家财产。"
+                },
+                "user_data": {
+                    "title": "3.2. 用户数据",
+                    "content": "<strong>您保留上传到平台的数据的全部所有权</strong>（例如：房产档案、客户数据、笔记）。我们仅作为数据处理者为您提供服务。我们不会为广告目的向第三方出售或分享您的客户数据。"
+                }
+            },
+            "accounts": {
+                "title": "4. 账户与责任",
+                "content": "您负责保持密码的机密性。您同意对您账户下发生的所有活动承担责任。服务使用仅限于专业人士和企业（B2B）。"
+            },
+            "billing": {
+                "title": "5. 订阅、付款与取消",
+                "intro": "付费服务（Pro、Business和Agency计划）通过定期订阅（月度或年度）支付。",
+                "secure_payment": "<strong>安全支付：</strong>所有付款均由Stripe处理。Casalvi CRM不存储您的完整银行数据。",
+                "renewal": "<strong>自动续订：</strong>除非您取消，否则您的订阅将在每个周期结束时自动续订。",
+                "cancellation": "<strong>取消政策：</strong>您可以随时从控制面板取消订阅。**取消将在当前计费周期结束时生效**。您将保留付费功能的访问权限直至该日期。",
+                "refunds": "<strong>无退款：</strong>除非适用法律另有要求，否则不对未使用的服务期提供全额或部分退款。",
+                "changes": "<strong>计划变更：</strong>升级到更高级别计划时，费用将立即或在下一个周期调整。降级到较低级别计划时，变更将在当前周期结束时生效。"
+            },
+            "liability": {
+                "title": "6. 责任限制",
+                "content": "在西班牙适用法律允许的最大范围内，服务提供商不对因使用服务而产生的间接、附带或后果性损害（包括利润或数据损失）负责。"
+            },
+            "law": {
+                "title": "7. 适用法律与管辖权",
+                "content": "本条款受西班牙法律管辖。对于任何争议，双方均同意提交服务提供商所在地的法院管辖，除非法律另有强制性规定。"
+            },
+            "footer_contact": "有法律疑问？请通过 {email} 联系我们"
+        },
+        "cookies": {
+            "title": "Cookie政策",
+            "last_updated": "最后更新：2025年12月24日",
+            "what_are": {
+                "title": "1. 什么是Cookie？",
+                "content": "Cookie是网站存储在您浏览器中的小型文本文件，用于记住您的访问信息。"
+            },
+            "used_cookies": {
+                "title": "2. 我们使用的Cookie",
+                "intro": "在Casalvi CRM中，我们<strong>仅使用技术和必要Cookie</strong>来确保服务正常运行。我们不使用广告Cookie或第三方侵入性跟踪Cookie。",
+                "essential_title": "必要Cookie（必需）",
+                "essential_desc": "这些Cookie对于您能够浏览和使用基本功能（如登录）至关重要。",
+                "table": {
+                    "provider": "名称 / 提供商",
+                    "purpose": "目的",
+                    "duration": "持续时间",
+                    "supabase": {
+                        "name": "sb-*-auth-token (Supabase)",
+                        "purpose": "安全地保持您的用户会话登录状态。",
+                        "duration": "持久（会话期间）"
+                    },
+                    "stripe": {
+                        "name": "__stripe_mid / __stripe_sid (Stripe)",
+                        "purpose": "支付欺诈检测和安全性。",
+                        "duration": "1年 / 30分钟"
+                    }
+                }
+            },
+            "management": {
+                "title": "3. Cookie管理",
+                "content": "由于我们仅使用必要Cookie来提供所需服务，根据现行法规（LSSI第22.2条），其安装无需事先同意。不过，您可以通过浏览器设置阻止这些Cookie，但这将导致您无法登录平台。"
+            }
+        }
+    }
+}
