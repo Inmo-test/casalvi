@@ -99,5 +99,6 @@
     "jsdom": "^27.4.0",
     "typescript": "^5.3.3",
     "vitest": "^4.0.16"
-  }
+  },
+  "packageManager": "pnpm@11.22.0"
 }
