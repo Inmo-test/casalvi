@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import { Work_Sans } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/react'
-import { Toaster } from "@casalvi/ui"
+import { Toaster } from "@/components/ui"
 import { ThemeProvider } from '@/components/theme-provider'
 import { CookieBanner } from '@/components/legal/cookie-banner'
 import { GoogleAnalytics } from '@next/third-parties/google'
@@ -105,7 +104,7 @@ export default function RootLayout({
                 {children}
                 <CookieBanner />
                 <Toaster />
-                <Analytics />
+                
               </ThemeProvider>
             </QueryProvider>
           </CurrencyProvider>
