@@ -6,8 +6,8 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+} from "@/components/ui/dropdown-menu"
+import { Button } from "@/components/ui/button"
 
 interface ContactCardProps {
   id: string

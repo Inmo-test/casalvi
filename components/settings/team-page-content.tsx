@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Avatar, AvatarFallback, AvatarImage } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -14,8 +14,8 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "@casalvi/ui"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@casalvi/ui"
+} from "@/components/ui/alert-dialog"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { InviteMemberDialog } from '@/components/settings/invite-member-dialog'
 import { Trash2, Shield, Mail, Clock, ArrowLeft, Loader2, UserCog } from 'lucide-react'
 import Link from 'next/link'
