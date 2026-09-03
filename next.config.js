@@ -27,7 +27,6 @@ const nextConfig = {
       allowedOrigins: ['localhost:3000'],
     },
   },
-  transpilePackages: ['@casalvi/ui'],
 }
 
 const withPWA = require("@ducanh2912/next-pwa").default({
