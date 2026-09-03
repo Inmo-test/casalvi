@@ -1,7 +1,7 @@
 'use client'
 
-import { Card, CardContent } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Card, CardContent } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import { Banknote, Bed, Bath, MapPin, TrendingUp, Search } from 'lucide-react'
 import { NewContactDialog } from './new-contact-dialog'
 import { useState } from 'react'

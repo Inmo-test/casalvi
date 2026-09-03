@@ -3,7 +3,7 @@ import { redirect } from 'next/navigation'
 import { ActivityCsvImporter } from '@/components/activities/activity-csv-importer'
 import { CsvImporter } from '@/components/contacts/csv-importer'
 import { AiQueueProcessor } from '@/components/tools/ai-queue-processor'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
 import { Database, Upload, FileText, AlertCircle } from 'lucide-react'
 import { getMyAgency } from '@/app/actions/team'
 import { ToolsHeader } from '@/components/tools/tools-header'

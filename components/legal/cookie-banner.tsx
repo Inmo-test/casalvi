@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Button } from '@casalvi/ui'
+import { Button } from "@/components/ui"
 import {
     Dialog,
     DialogContent,
@@ -9,9 +9,9 @@ import {
     DialogFooter,
     DialogHeader,
     DialogTitle,
-} from '@casalvi/ui'
-import { Checkbox } from '@casalvi/ui'
-import { Label } from '@casalvi/ui'
+} from "@/components/ui"
+import { Checkbox } from "@/components/ui"
+import { Label } from "@/components/ui"
 import { ShieldCheck, Cookie } from 'lucide-react'
 
 export function CookieBanner() {

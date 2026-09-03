@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { useLoadScript } from '@react-google-maps/api'
-import { Input } from "@casalvi/ui"
+import { Input } from "@/components/ui"
 import { cn } from '@/lib/cn'
 
 // Tipos para las bibliotecas de Google Maps

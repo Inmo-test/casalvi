@@ -9,9 +9,9 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
-import { Progress } from "@casalvi/ui"
+} from "@/components/ui"
+import { Badge } from "@/components/ui"
+import { Progress } from "@/components/ui"
 import { Phone } from 'lucide-react'
 import { ContactActions } from './contact-actions'
 import { ContactOwnerBadge } from './contact-owner-badge'

@@ -1,7 +1,7 @@
 'use client'
 
 import { useRef, useState } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { Upload } from 'lucide-react'
 import Papa from 'papaparse'
 import { importActivities } from '@/app/actions/activities'
@@ -14,15 +14,15 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
+} from "@/components/ui"
+import { Label } from "@/components/ui"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@casalvi/ui"
+} from "@/components/ui"
 
 type MappingStep = 'upload' | 'map' | 'importing'
 

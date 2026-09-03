@@ -3,11 +3,11 @@
 import { useState } from 'react'
 import { fetchInbox, type EmailMessage } from '@/app/actions/inbox'
 import { generateSmartReply } from '@/app/actions/generate-reply'
-import { Badge } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@casalvi/ui"
-import { Textarea } from "@casalvi/ui"
-import { Tabs, TabsList, TabsTrigger } from "@casalvi/ui"
+import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
+import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
+import { Textarea } from "@/components/ui/textarea"
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useToast } from '@/hooks/use-toast'
 import { Loader2, Sparkles, Reply, RefreshCw, ArrowLeft, Mail } from 'lucide-react'
 import { sendReply } from '@/app/actions/bulk-email'

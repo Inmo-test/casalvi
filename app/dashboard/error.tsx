@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui/button"
 import { AlertTriangle } from 'lucide-react'
 
 export default function Error({

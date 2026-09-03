@@ -1,7 +1,7 @@
 'use client'
 
-import { Card, CardContent, CardHeader, CardTitle } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import { Building2, Calendar, Ruler, FileText } from 'lucide-react'
 
 interface CatastroDataCardProps {

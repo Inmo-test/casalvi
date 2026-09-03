@@ -1,6 +1,6 @@
 'use client'
 
-import { Progress } from "@casalvi/ui"
+import { Progress } from "@/components/ui"
 import { PLAN_LIMITS, type PlanType } from '@/lib/config/subscription-plans'
 import { cn } from '@/lib/cn'
 

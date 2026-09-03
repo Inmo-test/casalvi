@@ -1,11 +1,11 @@
 'use client'
 
 import { useState } from 'react'
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter, DialogDescription } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { Textarea } from "@casalvi/ui"
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter, DialogDescription } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { Textarea } from "@/components/ui"
 import { sendBulkEmail, generateEmailDraft } from '@/app/actions/bulk-email'
 import { useToast } from '@/hooks/use-toast'
 import { Mail, Sparkles, Send, Loader2 } from 'lucide-react'

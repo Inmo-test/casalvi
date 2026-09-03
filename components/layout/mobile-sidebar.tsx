@@ -7,7 +7,7 @@ import { cn } from '@/lib/cn'
 import { Home, Users, Settings, LogOut, Wrench, BarChart3, Mail, Store, Search, Send, X, Mic } from 'lucide-react'
 import { useDashboardContext } from '@/context/dashboard-context'
 import { logout } from '@/app/actions/auth'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { ModeToggle } from '@/components/ui/mode-toggle'
 import { useI18n } from '@/lib/i18n/I18nContext'
 

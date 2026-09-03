@@ -2,7 +2,7 @@
 
 import { useSearchParams } from 'next/navigation'
 import { LoginForm } from '@/components/auth/login-form'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { ShieldAlert } from 'lucide-react'
 import Link from 'next/link'
 import { Suspense } from 'react'

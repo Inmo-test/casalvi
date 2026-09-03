@@ -1,6 +1,6 @@
 import { getProfile } from '@/app/actions/settings'
 import { EmailSettingsForm } from '@/components/settings/email-settings-form'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
 
 export default async function EmailSettingsPage() {
     const profile = await getProfile()

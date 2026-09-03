@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@casalvi/ui"
+import { Button } from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui"
 import { useToast } from '@/hooks/use-toast'
 import { Building2, Save, Loader2 } from 'lucide-react'
 import { updateAgencyDetails } from '@/app/actions/team'

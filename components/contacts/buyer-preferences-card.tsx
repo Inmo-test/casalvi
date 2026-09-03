@@ -1,11 +1,11 @@
 'use client'
 
 import { useState } from 'react'
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@casalvi/ui"
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui"
 import { updatePreferences } from '@/app/actions/preferences'
 import { useToast } from '@/hooks/use-toast'
 import { Loader2, Save, Target } from 'lucide-react'

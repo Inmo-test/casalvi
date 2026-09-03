@@ -1,7 +1,7 @@
 import Link from 'next/link'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
-import { Progress } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
+import { Badge } from "@/components/ui"
+import { Progress } from "@/components/ui"
 import { Flame, TrendingUp } from 'lucide-react'
 
 type TopLead = {

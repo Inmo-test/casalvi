@@ -1,9 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import { Card, CardContent } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Card, CardContent } from "@/components/ui"
+import { Badge } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { formatRelativeTime, formatTime, isToday, isTomorrow, formatDateGroup } from '@/lib/utils/date'
 import { Calendar, Clock, AlertCircle, Home, Phone, MessageCircle, Users, Check, Edit } from 'lucide-react'
 import { updateActivity } from '@/app/actions/activities'

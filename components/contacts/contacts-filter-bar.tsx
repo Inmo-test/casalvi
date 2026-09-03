@@ -2,17 +2,17 @@
 
 import { useEffect } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@casalvi/ui"
+} from "@/components/ui"
 import { Search } from 'lucide-react'
-import { Card, CardContent } from "@casalvi/ui"
+import { Card, CardContent } from "@/components/ui"
 import { useFilterStore } from '@/lib/stores/filter-store'
 
 interface TeamMember {

@@ -10,7 +10,7 @@ import {
     SortingState,
 } from '@tanstack/react-table'
 import type { ContactData } from '@/lib/services/contacts-service'
-import { Checkbox } from "@casalvi/ui"
+import { Checkbox } from "@/components/ui"
 import { BulkActionsBar } from './bulk-actions-bar'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'

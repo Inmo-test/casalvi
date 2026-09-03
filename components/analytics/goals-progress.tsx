@@ -1,6 +1,6 @@
 'use client'
 
-import { Progress } from "@casalvi/ui"
+import { Progress } from "@/components/ui"
 
 export function GoalsProgress({ goals, stats }: { goals: any[]; stats: any }) {
   if (goals.length === 0) {

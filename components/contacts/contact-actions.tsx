@@ -3,14 +3,14 @@
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { platformRefresh } from '@/lib/utils/platform'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@casalvi/ui"
+} from "@/components/ui"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -20,7 +20,7 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "@casalvi/ui"
+} from "@/components/ui"
 import { NewContactDialog } from './new-contact-dialog'
 import { deleteContact } from '@/app/actions/contacts'
 import { MoreHorizontal, Pencil, Trash2 } from 'lucide-react'

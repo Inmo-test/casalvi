@@ -1,6 +1,6 @@
 'use client'
 
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { Users, Mail, ArrowRight, ShieldCheck, X } from "lucide-react"
 
 interface BulkActionsBarProps {

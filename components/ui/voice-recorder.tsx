@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { Mic, Square, Loader2 } from 'lucide-react'
 import { transcribeAudio } from '@/app/actions/audio'
 

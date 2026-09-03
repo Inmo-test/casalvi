@@ -7,7 +7,7 @@ import { Home, Users, Settings, LogOut, ChevronLeft, Mic, Brain, FolderOpen, Wre
 import { useDashboardContext } from '@/context/dashboard-context'
 import { useState } from 'react'
 import { logout } from '@/app/actions/auth'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { ModeToggle } from '@/components/ui/mode-toggle'
 import { CasalviLogo } from '@/components/ui/casalvi-logo'
 import { useI18n } from '@/lib/i18n/I18nContext'

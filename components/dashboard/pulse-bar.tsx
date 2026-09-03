@@ -1,6 +1,6 @@
 'use client'
 
-import { Card } from "@casalvi/ui"
+import { Card } from "@/components/ui"
 import { Building2, Euro, Calendar } from 'lucide-react'
 import { cn } from '@/lib/cn'
 

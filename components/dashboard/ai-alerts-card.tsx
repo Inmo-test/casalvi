@@ -1,8 +1,8 @@
 'use client'
 
 import Link from 'next/link'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import { formatRelativeTime } from '@/lib/utils/date'
 import { Sparkles, AlertCircle, Smile } from 'lucide-react'
 

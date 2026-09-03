@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import { Popover, PopoverContent, PopoverTrigger } from '@casalvi/ui'
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui"
 import { cn } from '@/lib/cn'
 import { searchResources, type SearchResult } from '@/app/actions/search'
 import { Loader2, User, Home, Check } from 'lucide-react'

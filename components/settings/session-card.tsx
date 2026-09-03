@@ -1,7 +1,7 @@
 'use client'
 
-import { Card, CardContent, CardHeader, CardTitle } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { logout } from '@/app/actions/auth'
 import { LogOut } from 'lucide-react'
 

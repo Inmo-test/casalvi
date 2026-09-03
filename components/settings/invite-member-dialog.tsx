@@ -1,9 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
+import { Button } from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
 import {
   Dialog,
   DialogContent,
@@ -11,7 +11,7 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "@casalvi/ui"
+} from "@/components/ui"
 import { inviteMember } from '@/app/actions/team'
 import { useRouter } from 'next/navigation'
 import { useToast } from '@/hooks/use-toast'

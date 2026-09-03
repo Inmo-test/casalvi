@@ -1,13 +1,13 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import {
   Dialog,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "@casalvi/ui"
+} from "@/components/ui"
 import { Plus } from 'lucide-react'
 import { ContactForm } from './contact-form'
 

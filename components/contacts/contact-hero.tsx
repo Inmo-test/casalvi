@@ -1,8 +1,8 @@
 'use client'
 
-import { Avatar, AvatarFallback } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Avatar, AvatarFallback } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import { Phone, MessageCircle, Mail, StickyNote, Edit } from 'lucide-react'
 import { NewContactDialog } from './new-contact-dialog'
 import { cn } from '@/lib/cn'

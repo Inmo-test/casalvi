@@ -2,9 +2,9 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { Button } from "@casalvi/ui"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@casalvi/ui"
-import { Card, CardContent, CardHeader, CardTitle } from "@casalvi/ui"
+import { Button } from "@/components/ui"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
 import { ArrowLeft, Plus } from 'lucide-react'
 
 import { ContactHero } from '@/components/contacts/contact-hero'

@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { cn } from '@/lib/cn'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { PanelLeft } from 'lucide-react'
 import Link from 'next/link'
 // CAMBIO: Importamos el logo nuevo directamente para asegurar el diseño

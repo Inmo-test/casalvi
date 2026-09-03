@@ -1,9 +1,9 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Progress } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Progress } from "@/components/ui"
 import { Brain, Loader2, CheckCircle2 } from 'lucide-react'
 import { processPendingBatch, getPendingCount } from '@/app/actions/ai-batch'
 

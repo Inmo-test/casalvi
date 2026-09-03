@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import {
   Dialog,
   DialogContent,
@@ -9,16 +9,16 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@casalvi/ui"
+} from "@/components/ui"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
+} from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
 import { Loader2, Target } from 'lucide-react'
 import { createGoal } from '@/app/actions/goals'
 import { useToast } from '@/hooks/use-toast'

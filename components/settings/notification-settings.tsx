@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { RadioGroup, RadioGroupItem } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { RadioGroup, RadioGroupItem } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { Mail, Loader2, CheckCircle2 } from 'lucide-react'
 import { updateAgencySettings } from '@/app/actions/agency-settings'
 import { useToast } from '@/hooks/use-toast'

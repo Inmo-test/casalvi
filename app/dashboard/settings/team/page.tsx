@@ -4,7 +4,7 @@ import { TeamPageContent } from '@/components/settings/team-page-content'
 import { getTeamMembers, getMyAgency } from '@/app/actions/team'
 import { Users, ArrowLeft } from 'lucide-react'
 import Link from 'next/link'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 
 export default async function TeamPage() {
   const supabase = await createClient()

@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { Mic, Square, Trash2, Send, Play, Pause, Loader2, AlertCircle } from 'lucide-react'
 import { cn } from '@/lib/cn'
 

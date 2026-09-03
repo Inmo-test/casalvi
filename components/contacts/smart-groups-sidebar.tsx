@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Button } from "@casalvi/ui"
+import { Button } from "@/components/ui"
 import { Plus, Users, MapPin, Zap, Trash2, PanelLeftClose, PanelLeftOpen } from "lucide-react"
 import { getSmartGroups, deleteSmartGroup, type SmartGroup } from '@/app/actions/smart-groups'
 import { useToast } from '@/hooks/use-toast'

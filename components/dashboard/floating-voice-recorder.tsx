@@ -1,9 +1,9 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetDescription } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetDescription } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import { Mic, Loader2, Square, X, CheckCircle2, AlertCircle } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'
 import { processVoiceData } from '@/app/actions/voice'
@@ -14,7 +14,7 @@ import { useVoiceContext, getContextDescription } from '@/hooks/use-voice-contex
 import { conversationManager } from '@/lib/voice-conversation-manager'
 import { executeVoiceEntities } from '@/app/actions/voice-execution'
 import { cn } from '@/lib/cn'
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@casalvi/ui"
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui"
 import { useDashboardContext } from '@/context/dashboard-context'
 import type { VoiceEntity } from '@/lib/services/ai/analysis'
 import { useI18n } from '@/lib/i18n/I18nContext'

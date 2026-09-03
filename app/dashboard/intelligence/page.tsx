@@ -2,7 +2,7 @@ import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { getMyAgency } from '@/app/actions/team'
 import { getTopSellers } from '@/app/actions/intelligence'
-import { Card, CardContent, CardHeader, CardTitle } from '@casalvi/ui'
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
 import { Brain, Phone, Target, TrendingUp } from 'lucide-react'
 import Link from 'next/link'
 

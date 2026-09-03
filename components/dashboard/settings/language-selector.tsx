@@ -2,8 +2,8 @@
 
 import { useI18n } from '@/lib/i18n/I18nContext'
 import { useRouter } from 'next/navigation'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@casalvi/ui"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui"
 import { Globe } from 'lucide-react'
 
 export function LanguageSelector() {

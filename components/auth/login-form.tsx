@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { Checkbox } from "@casalvi/ui"
+import { Button } from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { Checkbox } from "@/components/ui"
 import Link from 'next/link'
 import { login, signup, signInWithMagicLink } from '@/app/actions/auth'
 import { Loader2, Mail, Lock, ArrowRight } from 'lucide-react'

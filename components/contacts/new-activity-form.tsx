@@ -1,13 +1,13 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { Card, CardContent, CardHeader, CardTitle } from "@casalvi/ui"
+import { Button } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
 import { createActivity } from '@/app/actions/activities'
-import { Textarea } from "@casalvi/ui"
+import { Textarea } from "@/components/ui"
 import { VoiceRecorder } from '@/components/ui/voice-recorder'
-import { Input } from "@casalvi/ui"
+import { Input } from "@/components/ui"
 import {
    Phone, Users, MessageCircle, StickyNote, Calendar,
    CheckCircle2, XCircle, HelpCircle, ArrowRight, DollarSign

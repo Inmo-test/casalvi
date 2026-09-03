@@ -1,7 +1,7 @@
 'use client'
 
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis, Tooltip, Legend } from 'recharts'
-import { Card, CardHeader, CardTitle, CardContent } from "@casalvi/ui"
+import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui"
 
 interface ComparisonProps {
     agentStats: {

@@ -4,13 +4,13 @@ import { useState, useMemo } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { NewContactDialog } from '@/components/contacts/new-contact-dialog'
 import { getContacts } from '@/app/actions/contacts'
-import { Input } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Input } from "@/components/ui/input"
+import { Button } from "@/components/ui/button"
 import { Search, Plus, Filter, Users, ArrowUpDown } from 'lucide-react'
 import { ContactCard } from '@/components/contacts/contact-card'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@casalvi/ui"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { getTeamMembers } from '@/app/actions/team'
-import { Card } from "@casalvi/ui"
+import { Card } from "@/components/ui/card"
 import { ContactsDataTable } from '@/components/contacts/contacts-data-table'
 import { SmartGroupsSidebar } from '@/components/contacts/smart-groups-sidebar'
 import type { SmartGroup } from '@/app/actions/smart-groups'

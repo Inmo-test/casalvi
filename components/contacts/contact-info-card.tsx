@@ -1,6 +1,6 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
-import { Button } from "@casalvi/ui" // <--- Asegurar import
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
+import { Badge } from "@/components/ui"
+import { Button } from "@/components/ui" // <--- Asegurar import
 import { Mail, Phone, Building, User, TrendingUp, MapPin, Home, Key } from 'lucide-react'
 import { WhatsAppButton } from '@/components/common/whatsapp-button'
 import Link from 'next/link' // <--- Asegurar import

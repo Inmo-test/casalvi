@@ -1,7 +1,7 @@
 'use client'
 
-import { Label } from "@casalvi/ui"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@casalvi/ui"
+import { Label } from "@/components/ui"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui"
 import { Calendar } from 'lucide-react'
 
 interface DurationPickerProps {

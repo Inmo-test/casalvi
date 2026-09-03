@@ -6,8 +6,8 @@ import { SettingsAgencyCard } from '@/components/settings/agency-card'
 import { NotificationSettings } from '@/components/settings/notification-settings'
 import { EmailSettingsForm } from '@/components/settings/email-settings-form'
 import { LanguageSelector } from '@/components/dashboard/settings/language-selector'
-import { Card, CardDescription, CardHeader, CardTitle } from "@casalvi/ui"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@casalvi/ui"
+import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui"
 import { Users, ChevronRight, User, Plug, Settings, Mail, Sprout } from 'lucide-react'
 import Link from 'next/link'
 

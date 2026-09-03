@@ -2,7 +2,7 @@ import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { getMyAgency } from '@/app/actions/team'
 import { listIngestedDocuments } from '@/app/actions/ingest'
-import { Card, CardContent, CardHeader, CardTitle } from '@casalvi/ui'
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
 import { FolderOpen, FileText } from 'lucide-react'
 import { IngestRunner } from '@/components/ingest/ingest-runner'
 

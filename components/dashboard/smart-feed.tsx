@@ -1,7 +1,7 @@
 'use client'
 
-import { Card, CardContent, CardHeader, CardTitle } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { AlertCircle, Home, TrendingDown, Wrench } from 'lucide-react'
 import { cn } from '@/lib/cn'
 import Link from 'next/link'

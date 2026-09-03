@@ -1,8 +1,8 @@
 'use client'
 
 import { useEffect, useState, useCallback } from 'react'
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { calculateWinProbability } from '@/app/actions/ai/intelligence'
 import { Loader2, TrendingUp, AlertTriangle, CheckCircle, RefreshCw, Sparkles, Home } from 'lucide-react'
 import { useToast } from '@/hooks/use-toast'

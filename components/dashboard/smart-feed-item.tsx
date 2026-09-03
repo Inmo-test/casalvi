@@ -1,8 +1,8 @@
 'use client'
 
-import { Card, CardContent } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Card, CardContent } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import { X, Sparkles, AlertTriangle, FileText, Home } from 'lucide-react'
 import Link from 'next/link'
 import type { SmartFeedItem } from '@/app/actions/dashboard'

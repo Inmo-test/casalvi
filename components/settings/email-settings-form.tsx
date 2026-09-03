@@ -1,12 +1,12 @@
 'use client'
 
 import { useState } from 'react'
-import { Button } from "@casalvi/ui"
-import { Input } from "@casalvi/ui"
-import { Label } from "@casalvi/ui"
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@casalvi/ui"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@casalvi/ui"
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "@casalvi/ui"
+import { Button } from "@/components/ui"
+import { Input } from "@/components/ui"
+import { Label } from "@/components/ui"
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui"
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui"
 import { useToast } from '@/hooks/use-toast'
 import { Loader2, CheckCircle2, AlertCircle, Save, Info, Key, Globe, LayoutTemplate } from 'lucide-react'
 import { updateEmailRef, testEmailConnection } from '@/app/actions/settings'

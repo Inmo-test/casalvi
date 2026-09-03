@@ -1,15 +1,15 @@
 'use client'
 
-import { Card, CardContent } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
-import { Badge } from "@casalvi/ui"
+import { Card, CardContent } from "@/components/ui"
+import { Button } from "@/components/ui"
+import { Badge } from "@/components/ui"
 import {
   Dialog,
   DialogContent,
   DialogHeader,
   DialogTitle,
   DialogDescription
-} from "@casalvi/ui"
+} from "@/components/ui"
 import { Lightbulb, ArrowRight, Phone, MessageCircle, Mail, Clock } from 'lucide-react'
 import { cn } from '@/lib/cn'
 import { predictNextStep } from '@/app/actions/ai/predictive'

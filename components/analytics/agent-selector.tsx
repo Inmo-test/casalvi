@@ -1,7 +1,7 @@
 'use client'
 
 import { useRouter, useSearchParams } from 'next/navigation'
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@casalvi/ui"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui"
 import { Users } from 'lucide-react'
 
 interface AgentSelectorProps {

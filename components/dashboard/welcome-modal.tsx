@@ -3,8 +3,8 @@
 import { useEffect, useState } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import confetti from 'canvas-confetti'
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from '@casalvi/ui'
-import { Button } from '@casalvi/ui'
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { Sparkles, Trophy, Rocket, Building } from 'lucide-react'
 import { useI18n } from '@/lib/i18n/I18nContext'
 

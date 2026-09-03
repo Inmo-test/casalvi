@@ -2,13 +2,13 @@ import { getAgencyAnalytics } from '@/lib/services/analytics-service'
 import { getAgencyMembers } from '@/lib/services/team-service'
 import { getMyAgency } from '@/app/actions/team'
 import { createClient } from '@/lib/supabase/server'
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@casalvi/ui"
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui"
 import { OverviewChart } from '@/components/analytics/overview-chart'
 import { GoalsProgress } from '@/components/analytics/goals-progress'
 import { AgentSelector } from '@/components/analytics/agent-selector'
 import { CreateGoalDialog } from '@/components/analytics/create-goal-dialog'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { TrendingUp, Target, Zap, BarChart3 } from 'lucide-react'
 import { getAgentComparison } from '@/lib/services/analytics-service'
 import { ComparisonChart } from '@/components/analytics/comparison-chart'

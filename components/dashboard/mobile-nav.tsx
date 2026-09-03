@@ -1,8 +1,8 @@
 'use client'
 
 import { useState } from 'react'
-import { Sheet, SheetContent, SheetTrigger } from "@casalvi/ui"
-import { Button } from "@casalvi/ui"
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui"
+import { Button } from "@/components/ui"
 import { PanelRight, X } from 'lucide-react'
 import { Sidebar } from '@/components/layout/sidebar'
 import Link from 'next/link'

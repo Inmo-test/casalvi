@@ -1,6 +1,6 @@
 'use client'
 
-import { Card, CardContent } from "@casalvi/ui"
+import { Card, CardContent } from "@/components/ui"
 import { Users, Flame, ShoppingCart, Home } from 'lucide-react'
 import { cn } from '@/lib/cn'
 import { useI18n } from '@/lib/i18n/I18nContext'
